@@ -1,0 +1,515 @@
+TY  - CONF
+TI  - Hakuin: Optimizing Blind SQL Injection with Probabilistic Language Models
+T2  - 2023 IEEE Security and Privacy Workshops (SPW)
+SP  - 384
+EP  - 393
+AU  - J. Pružinec
+AU  - N. A. Quynh
+PY  - 2023
+DO  - 10.1109/SPW59333.2023.00039
+JO  - 2023 IEEE Security and Privacy Workshops (SPW)
+IS  - 
+SN  - 2770-8411
+VO  - 
+VL  - 
+JA  - 2023 IEEE Security and Privacy Workshops (SPW)
+Y1  - 25-25 May 2023
+ER  - 
+
+TY  - CONF
+TI  - RegGPT: A Tool for Cross-Domain Service Regulation Language Conversion
+T2  - 2024 IEEE International Conference on Web Services (ICWS)
+SP  - 416
+EP  - 425
+AU  - Z. Wang
+AU  - Q. Xie
+AU  - H. Zhang
+AU  - W. Min
+AU  - L. Kuang
+AU  - L. Zhang
+PY  - 2024
+DO  - 10.1109/ICWS62655.2024.00063
+JO  - 2024 IEEE International Conference on Web Services (ICWS)
+IS  - 
+SN  - 2836-3868
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Web Services (ICWS)
+Y1  - 7-13 July 2024
+ER  - 
+
+TY  - JOUR
+TI  - Classifying European Court of Human Rights Cases Using Transformer-Based Techniques
+T2  - IEEE Access
+SP  - 55664
+EP  - 55676
+AU  - A. S. Imran
+AU  - H. Hodnefjeld
+AU  - Z. Kastrati
+AU  - N. Fatima
+AU  - S. M. Daudpota
+AU  - M. A. Wani
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3279034
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - CONF
+TI  - Chameleon: Fast-Slow Neuro-Symbolic Lane Topology Extraction
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 3752
+EP  - 3758
+AU  - Z. Zhang
+AU  - X. Li
+AU  - S. Zou
+AU  - G. Chi
+AU  - S. Li
+AU  - X. Qiu
+AU  - G. Wang
+AU  - G. Zheng
+AU  - L. Wang
+AU  - H. Zhao
+AU  - H. Zhao
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11127684
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - SpectralCam: High-Resolution Low-Cost Spectral Imaging Using DSLR Cameras
+T2  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+SP  - 1
+EP  - 5
+AU  - A. Paruchuri
+AU  - A. Ramirez-Jaime
+AU  - G. Arce
+AU  - A. Alrushud
+AU  - X. Ma
+AU  - R. Radpour
+PY  - 2025
+DO  - 10.1109/ICASSP49660.2025.10887725
+JO  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+IS  - 
+SN  - 2379-190X
+VO  - 
+VL  - 
+JA  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+Y1  - 6-11 April 2025
+ER  - 
+
+TY  - CHAP
+TI  - Towards AI-augmented design space exploration pipelines for UAVs
+T2  - Artificial Intelligence: Machine Learning, Convolutional Neural Networks and Large Language Models
+SP  - 309
+EP  - 332
+AU  - Michael Sandborn
+AU  - Carlos Olea
+AU  - Anwar Said
+AU  - Mudassir Shabir
+AU  - Peter Volgyesi
+AU  - Xenofon Koutsoukos
+AU  - Jules White
+PY  - 2024
+DO  - 
+PB  - De Gruyter
+SN  - 9783111344171
+UR  - http://ieeexplore.ieee.org/document/10790399
+ER  - 
+
+TY  - CONF
+TI  - Improved monocular depth prediction using distance transform over pre-semantic contours with self-supervised neural networks
+T2  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 21868
+EP  - 21879
+AU  - M. Hariat
+AU  - A. Manzanera
+AU  - D. Filliat
+PY  - 2025
+DO  - 10.1109/CVPR52734.2025.02037
+JO  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 10-17 June 2025
+ER  - 
+
+TY  - CONF
+TI  - MFinBERT: Multilingual Pretrained Language Model For Financial Domain
+T2  - 2022 14th International Conference on Knowledge and Systems Engineering (KSE)
+SP  - 1
+EP  - 6
+AU  - D. Nguyen
+AU  - N. Cao
+AU  - S. Nguyen
+AU  - S. Ta
+AU  - C. Dinh
+PY  - 2022
+DO  - 10.1109/KSE56063.2022.9953749
+JO  - 2022 14th International Conference on Knowledge and Systems Engineering (KSE)
+IS  - 
+SN  - 2694-4804
+VO  - 
+VL  - 
+JA  - 2022 14th International Conference on Knowledge and Systems Engineering (KSE)
+Y1  - 19-21 Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - Making Smart Contracts Easier To Understand
+T2  - 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)
+SP  - 1752
+EP  - 1757
+AU  - E. A. Napoli
+AU  - L. Gangemi
+AU  - S. Meneguzzo
+AU  - N. Romani
+AU  - V. Gatteschi
+PY  - 2025
+DO  - 10.1109/COMPSAC65507.2025.00238
+JO  - 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)
+IS  - 
+SN  - 2836-3795
+VO  - 
+VL  - 
+JA  - 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)
+Y1  - 8-11 July 2025
+ER  - 
+
+TY  - JOUR
+TI  - Pretraining Financial Text Encoder Enhanced by Lifelong Learning
+T2  - IEEE Access
+SP  - 184036
+EP  - 184044
+AU  - Z. Liu
+AU  - D. Huang
+AU  - K. Huang
+PY  - 2020
+DO  - 10.1109/ACCESS.2020.3027622
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 8
+VL  - 8
+JA  - IEEE Access
+Y1  - 2020
+ER  - 
+
+TY  - CONF
+TI  - Analyzing Automatic Code Generation for Learning Models in Generative AI
+T2  - 2024 11th International Conference on Software Defined Systems (SDS)
+SP  - 50
+EP  - 58
+AU  - A. Jain
+AU  - P. William
+AU  - F. T. Ayasrah
+AU  - G. P. Lakshmi
+AU  - T. D. Diwan
+PY  - 2024
+DO  - 10.1109/SDS64317.2024.10883930
+JO  - 2024 11th International Conference on Software Defined Systems (SDS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 11th International Conference on Software Defined Systems (SDS)
+Y1  - 9-11 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - BEACOMP: A Novel Textual Adversarial Attack Architecture for Unveiling the Fragility of Neural Text Classifiers
+T2  - 2024 2nd International Conference on Advancement in Computation & Computer Technologies (InCACCT)
+SP  - 161
+EP  - 166
+AU  - R. Sharma
+AU  - A. Ghosh
+AU  - A. Bajaj
+AU  - D. K. Vishwakarma
+PY  - 2024
+DO  - 10.1109/InCACCT61598.2024.10550990
+JO  - 2024 2nd International Conference on Advancement in Computation & Computer Technologies (InCACCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 2nd International Conference on Advancement in Computation & Computer Technologies (InCACCT)
+Y1  - 2-3 May 2024
+ER  - 
+
+TY  - CONF
+TI  - Dual Layer Cogni - Insight Deep-Mood Encoder: A Two- Tiered Approach for Depression Detection
+T2  - 2024 International Russian Smart Industry Conference (SmartIndustryCon)
+SP  - 928
+EP  - 937
+AU  - N. Firoz
+AU  - O. Berestneva
+AU  - S. V. Aksyonov
+PY  - 2024
+DO  - 10.1109/SmartIndustryCon61328.2024.10516113
+JO  - 2024 International Russian Smart Industry Conference (SmartIndustryCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Russian Smart Industry Conference (SmartIndustryCon)
+Y1  - 25-29 March 2024
+ER  - 
+
+TY  - CONF
+TI  - Metamodeling for network experimentation: ABEP of SC diversity with L branches under the combined effects of Rayleigh fading and BX co-channel interference (CCI) in WCN case study
+T2  - 2025 24th International Symposium INFOTEH-JAHORINA (INFOTEH)
+SP  - 1
+EP  - 6
+AU  - N. Petrović
+AU  - V. Vujović
+AU  - N. Zdravković
+AU  - S. Suljović
+AU  - G. Đorđević
+AU  - S. Đorđević
+PY  - 2025
+DO  - 10.1109/INFOTEH64129.2025.10959254
+JO  - 2025 24th International Symposium INFOTEH-JAHORINA (INFOTEH)
+IS  - 
+SN  - 2767-9470
+VO  - 
+VL  - 
+JA  - 2025 24th International Symposium INFOTEH-JAHORINA (INFOTEH)
+Y1  - 19-21 March 2025
+ER  - 
+
+TY  - CONF
+TI  - Traditional Machine Learning and Deep Learning-based Text Classification for Turkish Law Documents using Transformers and Domain Adaptation
+T2  - 2022 International Conference on INnovations in Intelligent SysTems and Applications (INISTA)
+SP  - 1
+EP  - 6
+AU  - O. Akça
+AU  - G. Bayrak
+AU  - A. M. Issifu
+AU  - M. C. Ganіz
+PY  - 2022
+DO  - 10.1109/INISTA55318.2022.9894051
+JO  - 2022 International Conference on INnovations in Intelligent SysTems and Applications (INISTA)
+IS  - 
+SN  - 2768-7295
+VO  - 
+VL  - 
+JA  - 2022 International Conference on INnovations in Intelligent SysTems and Applications (INISTA)
+Y1  - 8-12 Aug. 2022
+ER  - 
+
+TY  - JOUR
+TI  - Climate Change Sentiment Analysis Using Domain Specific Bidirectional Encoder Representations From Transformers
+T2  - IEEE Access
+SP  - 114912
+EP  - 114922
+AU  - V. S. Anoop
+AU  - T. K. A. Krishnan
+AU  - A. Daud
+AU  - A. Banjar
+AU  - A. Bukhari
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3441310
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Stock Price Prediction Through Fine-Tuned CardiffNLP Twitter-RoBERTa: A Web Application Approach Using Financial News Articles
+T2  - SoutheastCon 2025
+SP  - 995
+EP  - 1000
+AU  - C. Charles
+AU  - W. Tong
+AU  - L. Li
+AU  - A. Allen
+PY  - 2025
+DO  - 10.1109/SoutheastCon56624.2025.10971641
+JO  - SoutheastCon 2025
+IS  - 
+SN  - 1558-058X
+VO  - 
+VL  - 
+JA  - SoutheastCon 2025
+Y1  - 22-30 March 2025
+ER  - 
+
+TY  - CONF
+TI  - Exploring the Effectiveness of Abstract Syntax Tree Patterns for Algorithm Recognition
+T2  - 2024 4th International Conference on Code Quality (ICCQ)
+SP  - 1
+EP  - 18
+AU  - D. Neumüller
+AU  - F. Sihler
+AU  - R. Straub
+AU  - M. Tichy
+PY  - 2024
+DO  - 10.1109/ICCQ60895.2024.10576984
+JO  - 2024 4th International Conference on Code Quality (ICCQ)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 4th International Conference on Code Quality (ICCQ)
+Y1  - 22-22 June 2024
+ER  - 
+
+TY  - CONF
+TI  - From Natural Language to Insights: A Scalable Architecture for Query Transformation and Result Summarization
+T2  - 2025 International Conference on Smart Applications, Communications and Networking (SmartNets)
+SP  - 1
+EP  - 6
+AU  - E. Y. Eratalay
+AU  - M. S. Zengin
+AU  - S. Özdemir
+PY  - 2025
+DO  - 10.1109/SmartNets65254.2025.11106799
+JO  - 2025 International Conference on Smart Applications, Communications and Networking (SmartNets)
+IS  - 
+SN  - 2837-4940
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Smart Applications, Communications and Networking (SmartNets)
+Y1  - 22-24 July 2025
+ER  - 
+
+TY  - CONF
+TI  - RAG for Question-Answering for Vocal Training Based on Domain Knowledge Base
+T2  - 2024 11th International Conference on Behavioural and Social Computing (BESC)
+SP  - 1
+EP  - 6
+AU  - C. -h. J. Leung
+AU  - Y. Yi
+AU  - L. Kuai
+AU  - Z. Li
+AU  - S. -k. A. Yeung
+AU  - K. -w. J. Lee
+AU  - K. -h. K. Ho
+AU  - K. Hung
+PY  - 2024
+DO  - 10.1109/BESC64747.2024.10780718
+JO  - 2024 11th International Conference on Behavioural and Social Computing (BESC)
+IS  - 
+SN  - 2689-8284
+VO  - 
+VL  - 
+JA  - 2024 11th International Conference on Behavioural and Social Computing (BESC)
+Y1  - 16-18 Aug. 2024
+ER  - 
+
+TY  - CONF
+TI  - Software Engineering Research in a World with Generative Artificial Intelligence
+T2  - 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
+SP  - 3
+EP  - 7
+AU  - M. Rinard
+PY  - 2024
+DO  - 10.1145/3597503.3649399
+JO  - 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
+Y1  - 14-20 April 2024
+ER  - 
+
+TY  - CONF
+TI  - Linguistic-Aware WordPiece Tokenization: Semantic Enrichment and OOV Mitigation
+T2  - 2024 6th International Conference on Natural Language Processing (ICNLP)
+SP  - 134
+EP  - 142
+AU  - D. Schönle
+AU  - C. Reich
+AU  - D. O. Abdeslam
+PY  - 2024
+DO  - 10.1109/ICNLP60986.2024.10692355
+JO  - 2024 6th International Conference on Natural Language Processing (ICNLP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 6th International Conference on Natural Language Processing (ICNLP)
+Y1  - 22-24 March 2024
+ER  - 
+
+TY  - CONF
+TI  - Towards Generating Contracts for Scientific Data Analysis Workflows
+T2  - SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis
+SP  - 2048
+EP  - 2055
+AU  - A. D. Vu
+AU  - T. Kehrer
+PY  - 2024
+DO  - 10.1109/SCW63240.2024.00256
+JO  - SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis
+Y1  - 17-22 Nov. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Are Requirements Really All You Need? Using LLMs to Generate Configuration Code: A Case Study in Automotive Simulations
+T2  - IEEE Access
+SP  - 145115
+EP  - 145126
+AU  - K. Lebioda
+AU  - N. Petrovic
+AU  - F. Pan
+AU  - V. Zolfaghari
+AU  - A. Schamschurko
+AU  - A. Knoll
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3597748
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs
+T2  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 3753
+EP  - 3762
+AU  - H. Yuan
+AU  - J. Xu
+AU  - H. Pan
+AU  - A. Bousseau
+AU  - N. J. Mitra
+AU  - C. Li
+PY  - 2024
+DO  - 10.1109/CVPR52733.2024.00360
+JO  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 16-22 June 2024
+ER  - 
+
+

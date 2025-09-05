@@ -303,8 +303,8 @@ def main():
     
     # 硬编码的文件路径
     work_directory = r"C:\02.Work\09.Git_Repos\LLMinMDE2025"
-    input_file = os.path.join(work_directory, "ScienceDirect_citations.bib")
-    output_excel = os.path.join(work_directory, "ScienceDirect_results.xlsx")
+    input_file = os.path.join(work_directory, "IEEE_Xplore_Results.bib")
+    output_excel = os.path.join(work_directory, "IEEE_Xplore_Results.xlsx")
     
     print(f"工作目录: {work_directory}")
     print(f"输入文件: acm.bib")

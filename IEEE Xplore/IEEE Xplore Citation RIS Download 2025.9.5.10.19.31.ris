@@ -1,0 +1,524 @@
+TY  - CONF
+TI  - A Domain-Adaptive Large Language Model With Refinement Framework For IoT Cybersecurity
+T2  - 2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics
+SP  - 224
+EP  - 229
+AU  - X. Che
+AU  - Y. Zheng
+AU  - M. Zhu
+AU  - Q. Li
+AU  - X. Dong
+PY  - 2024
+DO  - 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics62450.2024.00056
+JO  - 2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics
+IS  - 
+SN  - 2836-3701
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics
+Y1  - 19-22 Aug. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Intelligent Practices of Large Language Models in Digital Government Services
+T2  - IEEE Access
+SP  - 8633
+EP  - 8640
+AU  - J. Han
+AU  - J. Lu
+AU  - Y. Xu
+AU  - J. You
+AU  - B. Wu
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3349969
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - CONF
+TI  - Engineering Safety Requirements for Autonomous Driving with Large Language Models
+T2  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+SP  - 218
+EP  - 228
+AU  - A. Nouri
+AU  - B. Cabrero-Daniel
+AU  - F. Törner
+AU  - H. Sivencrona
+AU  - C. Berger
+PY  - 2024
+DO  - 10.1109/RE59067.2024.00029
+JO  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+Y1  - 24-28 June 2024
+ER  - 
+
+TY  - JOUR
+TI  - Methodology for Code Synthesis Evaluation of LLMs Presented by a Case Study of ChatGPT and Copilot
+T2  - IEEE Access
+SP  - 72303
+EP  - 72316
+AU  - Z. Ságodi
+AU  - I. Siket
+AU  - R. Ferenc
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3403858
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - CONF
+TI  - Domain-Specific Language Model Post-Training for Indonesian Financial NLP
+T2  - 2023 International Conference on Electrical Engineering and Informatics (ICEEI)
+SP  - 1
+EP  - 6
+AU  - N. P. I. Maharani
+AU  - A. Purwarianti
+AU  - Y. Yustiawan
+AU  - F. C. Rochim
+PY  - 2023
+DO  - 10.1109/ICEEI59426.2023.10346625
+JO  - 2023 International Conference on Electrical Engineering and Informatics (ICEEI)
+IS  - 
+SN  - 2155-6830
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Electrical Engineering and Informatics (ICEEI)
+Y1  - 10-11 Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - Towards Continuous Security Assessment: Integrating Model-Based Risk Assessment and Large Language Models
+T2  - 2025 Integrated Communications, Navigation and Surveillance Conference (ICNS)
+SP  - 1
+EP  - 12
+AU  - M. Werthwein
+AU  - B. Annighoefer
+AU  - Z. Daw
+PY  - 2025
+DO  - 10.1109/ICNS65417.2025.10976786
+JO  - 2025 Integrated Communications, Navigation and Surveillance Conference (ICNS)
+IS  - 
+SN  - 2155-4951
+VO  - 
+VL  - 
+JA  - 2025 Integrated Communications, Navigation and Surveillance Conference (ICNS)
+Y1  - 8-10 April 2025
+ER  - 
+
+TY  - CONF
+TI  - GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models
+T2  - 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+SP  - 1
+EP  - 9
+AU  - Y. Fu
+AU  - Y. Zhang
+AU  - Z. Yu
+AU  - S. Li
+AU  - Z. Ye
+AU  - C. Li
+AU  - C. Wan
+AU  - Y. C. Lin
+PY  - 2023
+DO  - 10.1109/ICCAD57390.2023.10323953
+JO  - 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+IS  - 
+SN  - 1558-2434
+VO  - 
+VL  - 
+JA  - 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)
+Y1  - 28 Oct.-2 Nov. 2023
+ER  - 
+
+TY  - CONF
+TI  - Normative Requirements Operationalization with Large Language Models
+T2  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+SP  - 129
+EP  - 141
+AU  - N. Feng
+AU  - L. Marsso
+AU  - S. G. Yaman
+AU  - I. Standen
+AU  - Y. Baatartogtokh
+AU  - R. Ayad
+AU  - V. O. de Mello
+AU  - B. Townsend
+AU  - H. Bartels
+AU  - A. Cavalcanti
+AU  - R. Calinescu
+AU  - M. Chechik
+PY  - 2024
+DO  - 10.1109/RE59067.2024.00022
+JO  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+Y1  - 24-28 June 2024
+ER  - 
+
+TY  - CONF
+TI  - Pre-Trained Models for Intent Classification in Chatbot: Comparative Study and Critical Analysis
+T2  - 2023 6th International Conference on Advanced Communication Technologies and Networking (CommNet)
+SP  - 1
+EP  - 6
+AU  - A. Souha
+AU  - C. Ouaddi
+AU  - L. Benaddi
+AU  - A. Jakimi
+PY  - 2023
+DO  - 10.1109/CommNet60167.2023.10365312
+JO  - 2023 6th International Conference on Advanced Communication Technologies and Networking (CommNet)
+IS  - 
+SN  - 2771-7402
+VO  - 
+VL  - 
+JA  - 2023 6th International Conference on Advanced Communication Technologies and Networking (CommNet)
+Y1  - 11-13 Dec. 2023
+ER  - 
+
+TY  - CONF
+TI  - Integrating Potential Pronunciations for Enhanced Mispronunciation Detection and Diagnosis Ability in LLMs
+T2  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+SP  - 1
+EP  - 5
+AU  - M. Wu
+AU  - J. Xu
+AU  - X. Chen
+AU  - H. Meng
+PY  - 2025
+DO  - 10.1109/ICASSP49660.2025.10887601
+JO  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+IS  - 
+SN  - 2379-190X
+VO  - 
+VL  - 
+JA  - ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+Y1  - 6-11 April 2025
+ER  - 
+
+TY  - CONF
+TI  - Invited: Automated Code generation for Information Technology Tasks in YAML through Large Language Models
+T2  - 2023 60th ACM/IEEE Design Automation Conference (DAC)
+SP  - 1
+EP  - 4
+AU  - S. Pujar
+AU  - L. Buratti
+AU  - X. Guo
+AU  - N. Dupuis
+AU  - B. Lewis
+AU  - S. Suneja
+AU  - A. Sood
+AU  - G. Nalawade
+AU  - M. Jones
+AU  - A. Morari
+AU  - R. Puri
+PY  - 2023
+DO  - 10.1109/DAC56929.2023.10247987
+JO  - 2023 60th ACM/IEEE Design Automation Conference (DAC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 60th ACM/IEEE Design Automation Conference (DAC)
+Y1  - 9-13 July 2023
+ER  - 
+
+TY  - CONF
+TI  - Explorative Deployment of Fine-Tuned Large Language Model for On-Site Computerized Numeric Control Machine Operator Assistance
+T2  - 2024 IEEE Silchar Subsection Conference (SILCON 2024)
+SP  - 1
+EP  - 6
+AU  - K. S
+AU  - S. YS
+AU  - V. Vasan
+PY  - 2024
+DO  - 10.1109/SILCON63976.2024.10910360
+JO  - 2024 IEEE Silchar Subsection Conference (SILCON 2024)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE Silchar Subsection Conference (SILCON 2024)
+Y1  - 15-17 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - An Imperial Analysis of Large Language Models for Automated Tweet Sentiment Prediction
+T2  - 2023 International Conference on Sustainable Communication Networks and Application (ICSCNA)
+SP  - 182
+EP  - 188
+AU  - S. Akhouri
+AU  - V. Ajbani
+AU  - R. Lakshminarayanan
+AU  - T. N. Pandey
+AU  - M. S. Nigam
+AU  - S. S. Patra
+PY  - 2023
+DO  - 10.1109/ICSCNA58489.2023.10370253
+JO  - 2023 International Conference on Sustainable Communication Networks and Application (ICSCNA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Sustainable Communication Networks and Application (ICSCNA)
+Y1  - 15-17 Nov. 2023
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Oncology Care With Federated Learning and Foundation Models
+T2  - 2024 ITU Kaleidoscope: Innovation and Digital Transformation for a Sustainable World (ITU K)
+SP  - 1
+EP  - 7
+AU  - N. Gagan
+AU  - S. Sanand
+PY  - 2024
+DO  - 10.23919/ITUK62727.2024.10772940
+JO  - 2024 ITU Kaleidoscope: Innovation and Digital Transformation for a Sustainable World (ITU K)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 ITU Kaleidoscope: Innovation and Digital Transformation for a Sustainable World (ITU K)
+Y1  - 21-23 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - Fusing Pre-Trained Language Models with Multimodal Prompts through Reinforcement Learning
+T2  - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 10845
+EP  - 10856
+AU  - Y. Yu
+AU  - J. Chung
+AU  - H. Yun
+AU  - J. Hessel
+AU  - J. S. Park
+AU  - X. Lu
+AU  - R. Zellers
+AU  - P. Ammanabrolu
+AU  - R. L. Bras
+AU  - G. Kim
+AU  - Y. Choi
+PY  - 2023
+DO  - 10.1109/CVPR52729.2023.01044
+JO  - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 17-24 June 2023
+ER  - 
+
+TY  - CHAP
+TI  - Model Selection and Alternatives
+T2  - Large Language Model-Based Solutions: How to Deliver Value with Cost-Effective Generative AI Applications
+SP  - 89
+EP  - 122
+AU  - Shreyas Subramanian
+PY  - 2024
+DO  - 
+PB  - Wiley
+SN  - 9781394240746
+UR  - http://ieeexplore.ieee.org/document/10955671
+ER  - 
+
+TY  - CONF
+TI  - Generative AI in Model-Driven Software Engineering Education: Friend or Foe?
+T2  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+SP  - 110
+EP  - 113
+AU  - S. Morales
+AU  - E. Planas
+AU  - R. Clarisó
+AU  - M. Gogolla
+PY  - 2023
+DO  - 10.1109/MODELS-C59198.2023.00034
+JO  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+Y1  - 1-6 Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - Cmp: Composable Meta Prompt for Sam-Based Cross-Domain Few-Shot Segmentation
+T2  - 2025 IEEE International Conference on Image Processing (ICIP)
+SP  - 737
+EP  - 742
+AU  - S. Chen
+AU  - F. Meng
+AU  - C. Yang
+AU  - H. Wei
+AU  - C. Wu
+AU  - Q. Wu
+AU  - H. Li
+PY  - 2025
+DO  - 10.1109/ICIP55913.2025.11084317
+JO  - 2025 IEEE International Conference on Image Processing (ICIP)
+IS  - 
+SN  - 2381-8549
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Image Processing (ICIP)
+Y1  - 14-17 Sept. 2025
+ER  - 
+
+TY  - CONF
+TI  - A Comparative Study of Bug Triage Representation and Classification Approaches from Canonical to Large Language Models
+T2  - 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+SP  - 86
+EP  - 93
+AU  - F. T. Da Silva
+AU  - F. R. De Araújo
+AU  - E. C. Bezerra
+PY  - 2024
+DO  - 10.1109/ICAICE63571.2024.10864116
+JO  - 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+Y1  - 8-10 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Large Language Models for the Automated Documentation of Hardware Designs
+T2  - 2024 13th Mediterranean Conference on Embedded Computing (MECO)
+SP  - 1
+EP  - 6
+AU  - S. Fernando
+AU  - R. Kunzelmann
+AU  - D. S. Lopera
+AU  - J. Al Halabi
+AU  - W. Ecker
+PY  - 2024
+DO  - 10.1109/MECO62516.2024.10577923
+JO  - 2024 13th Mediterranean Conference on Embedded Computing (MECO)
+IS  - 
+SN  - 2637-9511
+VO  - 
+VL  - 
+JA  - 2024 13th Mediterranean Conference on Embedded Computing (MECO)
+Y1  - 11-14 June 2024
+ER  - 
+
+TY  - CONF
+TI  - Harnessing GPT for Data Transformation Tasks
+T2  - 2024 IEEE International Conference on Web Services (ICWS)
+SP  - 1329
+EP  - 1334
+AU  - S. Ghazzai
+AU  - D. Grigori
+AU  - B. Benatallah
+AU  - R. Rebai
+PY  - 2024
+DO  - 10.1109/ICWS62655.2024.00160
+JO  - 2024 IEEE International Conference on Web Services (ICWS)
+IS  - 
+SN  - 2836-3868
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Web Services (ICWS)
+Y1  - 7-13 July 2024
+ER  - 
+
+TY  - CONF
+TI  - Towards the LLM-Based Generation of Formal Specifications from Natural-Language Contracts: Early Experiments with Symboleo
+T2  - 2025 IEEE/ACM Requirements Engineering for AI-powered SoftwarE (RAISE)
+SP  - 1
+EP  - 9
+AU  - M. N. Zitouni
+AU  - A. A. Anda
+AU  - S. Rajpal
+AU  - D. Amyot
+AU  - J. Mylopoulos
+PY  - 2025
+DO  - 10.1109/RAISE66696.2025.00006
+JO  - 2025 IEEE/ACM Requirements Engineering for AI-powered SoftwarE (RAISE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM Requirements Engineering for AI-powered SoftwarE (RAISE)
+Y1  - 3-3 May 2025
+ER  - 
+
+TY  - CONF
+TI  - LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models
+T2  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+SP  - 1497
+EP  - 1508
+AU  - S. Tang
+AU  - Z. Zhang
+AU  - J. Zhou
+AU  - L. Lei
+AU  - Y. Zhou
+AU  - Y. Xue
+PY  - 2024
+DO  - 
+JO  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+IS  - 
+SN  - 2643-1572
+VO  - 
+VL  - 
+JA  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+Y1  - 27 Oct.-1 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Large Language Models for Validating Network Protocol Parsers
+T2  - 2025 IEEE Security and Privacy Workshops (SPW)
+SP  - 56
+EP  - 64
+AU  - M. Zheng
+AU  - D. Xie
+AU  - X. Zhang
+PY  - 2025
+DO  - 10.1109/SPW67851.2025.00009
+JO  - 2025 IEEE Security and Privacy Workshops (SPW)
+IS  - 
+SN  - 2770-8411
+VO  - 
+VL  - 
+JA  - 2025 IEEE Security and Privacy Workshops (SPW)
+Y1  - 15-15 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Joint Extraction of Clinical Entities and Relations Using Multi-head Selection Method
+T2  - 2021 International Conference on Asian Language Processing (IALP)
+SP  - 99
+EP  - 104
+AU  - X. Fang
+AU  - Y. Song
+AU  - A. Maeda
+PY  - 2021
+DO  - 10.1109/IALP54817.2021.9675275
+JO  - 2021 International Conference on Asian Language Processing (IALP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Asian Language Processing (IALP)
+Y1  - 11-13 Dec. 2021
+ER  - 
+
+

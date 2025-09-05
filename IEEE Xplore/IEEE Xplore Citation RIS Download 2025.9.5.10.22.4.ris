@@ -1,0 +1,540 @@
+TY  - JOUR
+TI  - Exploring ChatGPT Capabilities and Limitations: A Survey
+T2  - IEEE Access
+SP  - 118698
+EP  - 118721
+AU  - A. Koubaa
+AU  - W. Boulila
+AU  - L. Ghouti
+AU  - A. Alzahem
+AU  - S. Latif
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3326474
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - CONF
+TI  - SALLMA: A Software Architecture for LLM-Based Multi-Agent Systems
+T2  - 2025 IEEE/ACM International Workshop New Trends in Software Architecture (SATrends)
+SP  - 5
+EP  - 8
+AU  - M. Becattini
+AU  - R. Verdecchia
+AU  - E. Vicario
+PY  - 2025
+DO  - 10.1109/SATrends66715.2025.00006
+JO  - 2025 IEEE/ACM International Workshop New Trends in Software Architecture (SATrends)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM International Workshop New Trends in Software Architecture (SATrends)
+Y1  - 29-29 April 2025
+ER  - 
+
+TY  - CONF
+TI  - Creation and Analysis of a Natural Language Understanding Dataset for DoD Cybersecurity Policies (CSIAC-DoDIN V1.0)
+T2  - 2023 International Conference on Computational Science and Computational Intelligence (CSCI)
+SP  - 91
+EP  - 98
+AU  - E. Quevedo
+AU  - A. P. Arguelles
+AU  - A. Rodriguez
+AU  - J. Yero
+AU  - D. Pienta
+AU  - T. Cerny
+AU  - P. Rivas
+PY  - 2023
+DO  - 10.1109/CSCI62032.2023.00021
+JO  - 2023 International Conference on Computational Science and Computational Intelligence (CSCI)
+IS  - 
+SN  - 2769-5654
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Computational Science and Computational Intelligence (CSCI)
+Y1  - 13-15 Dec. 2023
+ER  - 
+
+TY  - CONF
+TI  - TranSQL: A Transformer-based Model for Classifying SQL Queries
+T2  - 2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)
+SP  - 788
+EP  - 793
+AU  - S. Tahmasebi
+AU  - A. H. Payberah
+AU  - A. Soylu
+AU  - D. Roman
+AU  - M. Matskin
+PY  - 2022
+DO  - 10.1109/ICMLA55696.2022.00131
+JO  - 2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)
+Y1  - 12-14 Dec. 2022
+ER  - 
+
+TY  - JOUR
+TI  - Automated Constraint Specification for Job Scheduling by Regulating Generative Model with Domain-Specific Representation
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 1
+EP  - 1
+AU  - Y. -Z. Shi
+AU  - Q. Xu
+AU  - Y. Li
+AU  - M. Liu
+AU  - H. Qu
+AU  - L. Ruan
+AU  - Q. Wang
+PY  - 2025
+DO  - 10.1109/TASE.2025.3596540
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 
+SN  - 1558-3783
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - Statler: State-Maintaining Language Models for Embodied Reasoning
+T2  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 15083
+EP  - 15091
+AU  - T. Yoneda
+AU  - J. Fang
+AU  - P. Li
+AU  - H. Zhang
+AU  - T. Jiang
+AU  - S. Lin
+AU  - B. Picker
+AU  - D. Yunis
+AU  - H. Mei
+AU  - M. R. Walter
+PY  - 2024
+DO  - 10.1109/ICRA57147.2024.10610634
+JO  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 13-17 May 2024
+ER  - 
+
+TY  - CONF
+TI  - Toward Generative 6G Simulation: An Experimental Multi-Agent LLM and ns-3 Integration
+T2  - 2025 IEEE International Mediterranean Conference on Communications and Networking (MeditCom)
+SP  - 1
+EP  - 6
+AU  - F. Rezazadeh
+AU  - A. A. Gargari
+AU  - S. Lagén
+AU  - H. Song
+AU  - D. Niyato
+AU  - L. Liu
+PY  - 2025
+DO  - 10.1109/MeditCom64437.2025.11104374
+JO  - 2025 IEEE International Mediterranean Conference on Communications and Networking (MeditCom)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Mediterranean Conference on Communications and Networking (MeditCom)
+Y1  - 7-10 July 2025
+ER  - 
+
+TY  - JOUR
+TI  - Static Malware Detection Using Stacked BiLSTM and GPT-2
+T2  - IEEE Access
+SP  - 58488
+EP  - 58502
+AU  - D. Demırcı
+AU  - N. şahın
+AU  - M. şirlancis
+AU  - C. Acarturk
+PY  - 2022
+DO  - 10.1109/ACCESS.2022.3179384
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+ER  - 
+
+TY  - CONF
+TI  - The Use of Clinical Language Models Pretrained on Institutional EHR Data for Downstream Tasks
+T2  - 2024 21st International Joint Conference on Computer Science and Software Engineering (JCSSE)
+SP  - 648
+EP  - 655
+AU  - K. Suvirat
+AU  - S. Chairat
+AU  - K. Horsiritham
+AU  - T. Ingviya
+AU  - C. Kongkamol
+AU  - S. Chaichulee
+PY  - 2024
+DO  - 10.1109/JCSSE61278.2024.10613630
+JO  - 2024 21st International Joint Conference on Computer Science and Software Engineering (JCSSE)
+IS  - 
+SN  - 2642-6579
+VO  - 
+VL  - 
+JA  - 2024 21st International Joint Conference on Computer Science and Software Engineering (JCSSE)
+Y1  - 19-22 June 2024
+ER  - 
+
+TY  - JOUR
+TI  - scGraPhT: Merging Transformers and Graph Neural Networks for Single-Cell Annotation
+T2  - IEEE Transactions on Signal and Information Processing over Networks
+SP  - 505
+EP  - 519
+AU  - E. Koç
+AU  - E. Kulkul
+AU  - G. Kaynar
+AU  - T. Çukur
+AU  - M. Acar
+AU  - A. Koç
+PY  - 2025
+DO  - 10.1109/TSIPN.2025.3573591
+JO  - IEEE Transactions on Signal and Information Processing over Networks
+IS  - 
+SN  - 2373-776X
+VO  - 11
+VL  - 11
+JA  - IEEE Transactions on Signal and Information Processing over Networks
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Concept and Realization to Automatically Generate Test and Training Data for a Natural Language Processing Algorithm for the Assessment of Free Text Answers for Digital Courses on Work Design in the Context of Psychology Studies in Higher Educational Institutions
+T2  - 2022 International Conference on Computational Science and Computational Intelligence (CSCI)
+SP  - 1977
+EP  - 1982
+AU  - R. Srbecky
+AU  - F. Bühler
+AU  - S. -A. Wetzel
+AU  - M. Winterhagen
+AU  - W. Fraas
+AU  - J. Dettmers
+AU  - M. Hemmje
+PY  - 2022
+DO  - 10.1109/CSCI58124.2022.00355
+JO  - 2022 International Conference on Computational Science and Computational Intelligence (CSCI)
+IS  - 
+SN  - 2769-5654
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Computational Science and Computational Intelligence (CSCI)
+Y1  - 14-16 Dec. 2022
+ER  - 
+
+TY  - CONF
+TI  - CONFPILOT: A Pilot for Faster Configuration by Learning from Device Manuals
+T2  - 2023 IEEE 43rd International Conference on Distributed Computing Systems (ICDCS)
+SP  - 108
+EP  - 119
+AU  - J. Zhao
+AU  - H. Sun
+AU  - J. Wang
+AU  - Q. Qi
+AU  - Z. Zhuang
+AU  - S. Tao
+AU  - J. Liao
+PY  - 2023
+DO  - 10.1109/ICDCS57875.2023.00077
+JO  - 2023 IEEE 43rd International Conference on Distributed Computing Systems (ICDCS)
+IS  - 
+SN  - 2575-8411
+VO  - 
+VL  - 
+JA  - 2023 IEEE 43rd International Conference on Distributed Computing Systems (ICDCS)
+Y1  - 18-21 July 2023
+ER  - 
+
+TY  - CONF
+TI  - Identifying Major Depressive Disorder From Clinical Notes Using Neural Language Models with Distant Supervision
+T2  - 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)
+SP  - 183
+EP  - 192
+AU  - K. Miller
+AU  - B. S. A. Kshatriya
+AU  - N. A. Nunez
+AU  - M. Gardea-Resendez
+AU  - E. Ryu
+AU  - B. J. Coombes
+AU  - S. Fu
+AU  - M. A. Frye
+AU  - J. Biernacka
+AU  - M. Huang
+AU  - Y. Wang
+PY  - 2023
+DO  - 10.1109/ICHI57859.2023.00034
+JO  - 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)
+IS  - 
+SN  - 2575-2634
+VO  - 
+VL  - 
+JA  - 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)
+Y1  - 26-29 June 2023
+ER  - 
+
+TY  - CONF
+TI  - GenAI-Enabled Network Design: ABEP of SC Diversity Under the Combined Effects of Rician Fading and Rician Co-Channel Interference in WCN Case Study
+T2  - 2025 60th International Scientific Conference on Information, Communication and Energy Systems and Technologies (ICEST)
+SP  - 1
+EP  - 4
+AU  - N. Petrović
+AU  - S. Škrbić
+AU  - M. Jović
+AU  - S. Suljović
+AU  - M. Milašinović
+PY  - 2025
+DO  - 10.1109/ICEST66328.2025.11098387
+JO  - 2025 60th International Scientific Conference on Information, Communication and Energy Systems and Technologies (ICEST)
+IS  - 
+SN  - 2603-3267
+VO  - 
+VL  - 
+JA  - 2025 60th International Scientific Conference on Information, Communication and Energy Systems and Technologies (ICEST)
+Y1  - 26-28 June 2025
+ER  - 
+
+TY  - CONF
+TI  - SceneMotifCoder: Example-Driven Visual Program Learning for Generating 3D Object Arrangements
+T2  - 2025 International Conference on 3D Vision (3DV)
+SP  - 179
+EP  - 188
+AU  - H. I. I. Tam
+AU  - H. I. D. Pun
+AU  - A. T. Wang
+AU  - A. X. Chang
+AU  - M. Savva
+PY  - 2025
+DO  - 10.1109/3DV66043.2025.00022
+JO  - 2025 International Conference on 3D Vision (3DV)
+IS  - 
+SN  - 2475-7888
+VO  - 
+VL  - 
+JA  - 2025 International Conference on 3D Vision (3DV)
+Y1  - 25-28 March 2025
+ER  - 
+
+TY  - CONF
+TI  - Enhancing LLM-Generated Hardware Documentation: Post-Processing and Prompt Engineering Techniques
+T2  - MBMV 2025; 28. Workshop
+SP  - 90
+EP  - 97
+AU  - R. Kunzelmann
+AU  - S. Fernando
+AU  - W. Ecker
+PY  - 2025
+DO  - 
+JO  - MBMV 2025; 28. Workshop
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - MBMV 2025; 28. Workshop
+Y1  - 11-12 March 2025
+ER  - 
+
+TY  - CONF
+TI  - Language Model for Earth Science: Exploring Potential Downstream Applications as well as Current Challenges
+T2  - IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium
+SP  - 4015
+EP  - 4018
+AU  - R. Ramachandran
+AU  - M. Ramasubramanian
+AU  - P. Koirala
+AU  - I. Gurung
+AU  - M. Maskey
+PY  - 2022
+DO  - 10.1109/IGARSS46834.2022.9883682
+JO  - IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium
+IS  - 
+SN  - 2153-7003
+VO  - 
+VL  - 
+JA  - IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium
+Y1  - 17-22 July 2022
+ER  - 
+
+TY  - CONF
+TI  - Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners
+T2  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 13269
+EP  - 13278
+AU  - C. Feng
+AU  - J. Hsu
+AU  - W. Liu
+AU  - J. Wu
+PY  - 2024
+DO  - 10.1109/CVPR52733.2024.01260
+JO  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 16-22 June 2024
+ER  - 
+
+TY  - CONF
+TI  - Towards Secure and Private Smart Contracts in Ethereum: SafeSC ChatGPT-based Tool in Action
+T2  - GLOBECOM 2024 - 2024 IEEE Global Communications Conference
+SP  - 3213
+EP  - 3218
+AU  - O. Elghazaly
+AU  - N. Nasser
+AU  - A. El Ouadrhiri
+AU  - A. Ali
+PY  - 2024
+DO  - 10.1109/GLOBECOM52923.2024.10901567
+JO  - GLOBECOM 2024 - 2024 IEEE Global Communications Conference
+IS  - 
+SN  - 2576-6813
+VO  - 
+VL  - 
+JA  - GLOBECOM 2024 - 2024 IEEE Global Communications Conference
+Y1  - 8-12 Dec. 2024
+ER  - 
+
+TY  - JOUR
+TI  - CardioBERT: A Cardiac Identification Using Fusion Features in Consumer Healthcare
+T2  - IEEE Transactions on Consumer Electronics
+SP  - 3522
+EP  - 3530
+AU  - R. Alturki
+AU  - A. Munshi
+AU  - B. Alshawi
+AU  - K. Agarwal
+AU  - F. Khan
+AU  - S. Khan
+PY  - 2025
+DO  - 10.1109/TCE.2025.3575522
+JO  - IEEE Transactions on Consumer Electronics
+IS  - 2
+SN  - 1558-4127
+VO  - 71
+VL  - 71
+JA  - IEEE Transactions on Consumer Electronics
+Y1  - May 2025
+ER  - 
+
+TY  - CONF
+TI  - Effective Code Generation Using Program Synthesis And CodeLLM
+T2  - 2025 International Conference on Computational Innovations and Engineering Sustainability (ICCIES)
+SP  - 1
+EP  - 7
+AU  - S. S. G
+AU  - D. K. N
+PY  - 2025
+DO  - 10.1109/ICCIES63851.2025.11032972
+JO  - 2025 International Conference on Computational Innovations and Engineering Sustainability (ICCIES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Computational Innovations and Engineering Sustainability (ICCIES)
+Y1  - 24-26 April 2025
+ER  - 
+
+TY  - CONF
+TI  - IntelliAid: A Personal Assistant Chat-Bot for Enhanced Task Management
+T2  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+SP  - 432
+EP  - 436
+AU  - K. Prathiksha
+AU  - S. G. Tamizh Malar
+AU  - P. Nivedha
+AU  - D. M. Divya
+AU  - S. Srijayanthi
+PY  - 2024
+DO  - 10.1109/ICESC60852.2024.10689912
+JO  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+IS  - 
+SN  - 2996-5357
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+Y1  - 7-9 Aug. 2024
+ER  - 
+
+TY  - JOUR
+TI  - LLaMA-UTP: Knowledge-Guided Expert Mixture for Analyzing Uncertain Tax Positions
+T2  - IEEE Access
+SP  - 90637
+EP  - 90650
+AU  - Y. Tan
+AU  - B. Wu
+AU  - J. Cao
+AU  - B. Jiang
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3571502
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - JOUR
+TI  - MonoTher-Depth: Enhancing Thermal Depth Estimation via Confidence-Aware Distillation
+T2  - IEEE Robotics and Automation Letters
+SP  - 2830
+EP  - 2837
+AU  - X. Zuo
+AU  - N. Ranganathan
+AU  - C. Lee
+AU  - G. Gkioxari
+AU  - S. -J. Chung
+PY  - 2025
+DO  - 10.1109/LRA.2025.3536855
+JO  - IEEE Robotics and Automation Letters
+IS  - 3
+SN  - 2377-3766
+VO  - 10
+VL  - 10
+JA  - IEEE Robotics and Automation Letters
+Y1  - March 2025
+ER  - 
+
+TY  - JOUR
+TI  - Interactive Table Synthesis With Natural Language
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 6130
+EP  - 6145
+AU  - Y. Huang
+AU  - Y. Zhou
+AU  - R. Chen
+AU  - C. Pan
+AU  - X. Shu
+AU  - D. Weng
+AU  - Y. Wu
+PY  - 2024
+DO  - 10.1109/TVCG.2023.3329120
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 9
+SN  - 1941-0506
+VO  - 30
+VL  - 30
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Sept. 2024
+ER  - 
+
+

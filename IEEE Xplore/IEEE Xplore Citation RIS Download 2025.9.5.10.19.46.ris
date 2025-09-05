@@ -1,0 +1,512 @@
+TY  - JOUR
+TI  - Generative AI for Data Science
+T2  - IEEE Software
+SP  - 20
+EP  - 24
+AU  - C. Ebert
+AU  - P. Nawalramka
+PY  - 2025
+DO  - 10.1109/MS.2025.3562046
+JO  - IEEE Software
+IS  - 4
+SN  - 1937-4194
+VO  - 42
+VL  - 42
+JA  - IEEE Software
+Y1  - July-Aug. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Improving Adaptability in Optimization-Based Decision Support Systems Through Large Language Models
+T2  - IEEE Access
+SP  - 149777
+EP  - 149788
+AU  - G. Ghiani
+AU  - E. Manni
+AU  - S. Zacchino
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3601518
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Combining Logic and Large Language Models for Assisted Debugging and Repair of ASP Programs
+T2  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+SP  - 646
+EP  - 657
+AU  - R. Brancas
+AU  - V. Manquinho
+AU  - R. Martins
+PY  - 2025
+DO  - 10.1109/ICST62969.2025.10988950
+JO  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 31 March-4 April 2025
+ER  - 
+
+TY  - CONF
+TI  - Prompting or Fine-tuning? A Comparative Study of Large Language Models for Taxonomy Construction
+T2  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+SP  - 588
+EP  - 596
+AU  - B. Chen
+AU  - F. Yi
+AU  - D. Varró
+PY  - 2023
+DO  - 10.1109/MODELS-C59198.2023.00097
+JO  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+Y1  - 1-6 Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - XPERT: Empowering Incident Management with Query Recommendations via Large Language Models
+T2  - 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
+SP  - 1121
+EP  - 1133
+AU  - Y. Jiang
+AU  - C. Zhang
+AU  - S. He
+AU  - Z. Yang
+AU  - M. Ma
+AU  - S. Qin
+AU  - Y. Kang
+AU  - Y. Dang
+AU  - S. Rajmohan
+AU  - Q. Lin
+AU  - D. Zhang
+PY  - 2024
+DO  - 10.1145/3597503.3639081
+JO  - 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
+Y1  - 14-20 April 2024
+ER  - 
+
+TY  - CONF
+TI  - Natural Language Querying on Domain-Specific NoSQL Database with Large Language Models
+T2  - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+SP  - 5174
+EP  - 5181
+AU  - W. Zhang
+AU  - C. He
+AU  - G. Yang
+AU  - D. Bandyopadhyay
+AU  - T. Shi
+AU  - P. Wang
+PY  - 2024
+DO  - 10.1109/BIBM62325.2024.10822485
+JO  - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+IS  - 
+SN  - 2156-1133
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+Y1  - 3-6 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Large Language Models for Automatic Smart Contract Generation
+T2  - 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)
+SP  - 701
+EP  - 710
+AU  - E. A. Napoli
+AU  - F. Barbàra
+AU  - V. Gatteschi
+AU  - C. Schifanella
+PY  - 2024
+DO  - 10.1109/COMPSAC61105.2024.00100
+JO  - 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)
+IS  - 
+SN  - 2836-3795
+VO  - 
+VL  - 
+JA  - 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)
+Y1  - 2-4 July 2024
+ER  - 
+
+TY  - CONF
+TI  - GUIDE: LLM-Driven GUI Generation Decomposition for Automated Prototyping
+T2  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+SP  - 1
+EP  - 4
+AU  - K. Kolthoff
+AU  - F. Kretzer
+AU  - C. Bartelt
+AU  - A. Maedche
+AU  - S. P. Ponzetto
+PY  - 2025
+DO  - 10.1109/ICSE-Companion66252.2025.00010
+JO  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+IS  - 
+SN  - 2574-1934
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+Y1  - 27 April-3 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Constraint Representation Towards Precise Data-Driven Storytelling
+T2  - 2024 IEEE VIS Workshop on Data Storytelling in an Era of Generative AI (GEN4DS)
+SP  - 4
+EP  - 12
+AU  - Y. -Z. Shi
+AU  - H. Li
+AU  - L. Ruan
+AU  - H. Qu
+PY  - 2024
+DO  - 10.1109/GEN4DS63889.2024.00006
+JO  - 2024 IEEE VIS Workshop on Data Storytelling in an Era of Generative AI (GEN4DS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE VIS Workshop on Data Storytelling in an Era of Generative AI (GEN4DS)
+Y1  - 13-13 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - Multi-task Learning with Pre-trained Language Models for Mental Illness Screening
+T2  - 2024 IEEE International Conference on Big Data (BigData)
+SP  - 6142
+EP  - 6150
+AU  - A. Shrestha
+AU  - M. Tlachac
+AU  - R. Flores
+AU  - K. Hickey
+AU  - E. A. Rundensteiner
+PY  - 2024
+DO  - 10.1109/BigData62323.2024.10825698
+JO  - 2024 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 2573-2978
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Big Data (BigData)
+Y1  - 15-18 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Ansible Lightspeed: A Code Generation Service for IT Automation
+T2  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+SP  - 2148
+EP  - 2158
+AU  - P. Sahoo
+AU  - S. Pujar
+AU  - G. Nalawade
+AU  - R. Gebhardt
+AU  - L. Mandel
+AU  - L. Buratti
+PY  - 2024
+DO  - 
+JO  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+IS  - 
+SN  - 2643-1572
+VO  - 
+VL  - 
+JA  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+Y1  - 27 Oct.-1 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Generative AI for OCL Constraint Generation: Dataset Collection and LLM Fine-tuning
+T2  - 2024 IEEE International Symposium on Systems Engineering (ISSE)
+SP  - 1
+EP  - 8
+AU  - F. Pan
+AU  - V. Zolfaghari
+AU  - L. Wen
+AU  - N. Petrovic
+AU  - J. Lin
+AU  - A. Knoll
+PY  - 2024
+DO  - 10.1109/ISSE63315.2024.10741141
+JO  - 2024 IEEE International Symposium on Systems Engineering (ISSE)
+IS  - 
+SN  - 2687-8828
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Symposium on Systems Engineering (ISSE)
+Y1  - 16-19 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - A Survey of Mixture Models for Scientific Literature
+T2  - 2024 4th International Symposium on Artificial Intelligence and Intelligent Manufacturing (AIIM)
+SP  - 577
+EP  - 582
+AU  - Y. Deng
+AU  - Q. Liu
+AU  - X. Li
+AU  - G. Zhang
+AU  - M. Zhu
+PY  - 2024
+DO  - 10.1109/AIIM64537.2024.10934484
+JO  - 2024 4th International Symposium on Artificial Intelligence and Intelligent Manufacturing (AIIM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 4th International Symposium on Artificial Intelligence and Intelligent Manufacturing (AIIM)
+Y1  - 20-22 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Automated C/C++ Program Repair for High-Level Synthesis via Large Language Models
+T2  - 2024 ACM/IEEE 6th Symposium on Machine Learning for CAD (MLCAD)
+SP  - 1
+EP  - 9
+AU  - K. Xu
+AU  - G. L. Zhang
+AU  - X. Yin
+AU  - C. Zhuo
+AU  - U. Schlichtmann
+AU  - B. Li
+PY  - 2024
+DO  - 10.1109/MLCAD62225.2024.10740262
+JO  - 2024 ACM/IEEE 6th Symposium on Machine Learning for CAD (MLCAD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 ACM/IEEE 6th Symposium on Machine Learning for CAD (MLCAD)
+Y1  - 9-11 Sept. 2024
+ER  - 
+
+TY  - CONF
+TI  - LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World
+T2  - 2025 IEEE 22nd International Conference on Software Architecture (ICSA)
+SP  - 25
+EP  - 36
+AU  - S. Arun
+AU  - M. Tedla
+AU  - K. Vaidhyanathan
+PY  - 2025
+DO  - 10.1109/ICSA65012.2025.00013
+JO  - 2025 IEEE 22nd International Conference on Software Architecture (ICSA)
+IS  - 
+SN  - 2835-7043
+VO  - 
+VL  - 
+JA  - 2025 IEEE 22nd International Conference on Software Architecture (ICSA)
+Y1  - 31 March-4 April 2025
+ER  - 
+
+TY  - JOUR
+TI  - DracoGPT: Extracting Visualization Design Preferences from Large Language Models
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 710
+EP  - 720
+AU  - H. W. Wang
+AU  - M. Gordon
+AU  - L. Battle
+AU  - J. Heer
+PY  - 2025
+DO  - 10.1109/TVCG.2024.3456350
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 1
+SN  - 1941-0506
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Jan. 2025
+ER  - 
+
+TY  - CONF
+TI  - Gen-AI in a Bottle: Experiments with LLMs to Generate HPC Kernels
+T2  - 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+SP  - 215
+EP  - 224
+AU  - U. Sridhar
+AU  - E. Binder
+AU  - T. M. Low
+PY  - 2025
+DO  - 10.1109/IPDPSW66978.2025.00043
+JO  - 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+IS  - 
+SN  - 2995-066X
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)
+Y1  - 3-7 June 2025
+ER  - 
+
+TY  - CONF
+TI  - VNLawBERT: A Vietnamese Legal Answer Selection Approach Using BERT Language Model
+T2  - 2020 7th NAFOSTED Conference on Information and Computer Science (NICS)
+SP  - 298
+EP  - 301
+AU  - C. -N. Chau
+AU  - T. -S. Nguyen
+AU  - L. -M. Nguyen
+PY  - 2020
+DO  - 10.1109/NICS51282.2020.9335906
+JO  - 2020 7th NAFOSTED Conference on Information and Computer Science (NICS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 7th NAFOSTED Conference on Information and Computer Science (NICS)
+Y1  - 26-27 Nov. 2020
+ER  - 
+
+TY  - CONF
+TI  - LLM-RSPF: Large Language Model-Based Robotic System Planning Framework for Domain Specific Use-cases
+T2  - 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+SP  - 7277
+EP  - 7286
+AU  - C. K. Singh
+AU  - D. Kumar
+AU  - V. Sanap
+AU  - R. Sinha
+PY  - 2025
+DO  - 10.1109/WACV61041.2025.00707
+JO  - 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+IS  - 
+SN  - 2642-9381
+VO  - 
+VL  - 
+JA  - 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+Y1  - 26 Feb.-6 March 2025
+ER  - 
+
+TY  - JOUR
+TI  - ChestXRayBERT: A Pretrained Language Model for Chest Radiology Report Summarization
+T2  - IEEE Transactions on Multimedia
+SP  - 845
+EP  - 855
+AU  - X. Cai
+AU  - S. Liu
+AU  - J. Han
+AU  - L. Yang
+AU  - Z. Liu
+AU  - T. Liu
+PY  - 2023
+DO  - 10.1109/TMM.2021.3132724
+JO  - IEEE Transactions on Multimedia
+IS  - 
+SN  - 1941-0077
+VO  - 25
+VL  - 25
+JA  - IEEE Transactions on Multimedia
+Y1  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - A Comparison of Large Language Models and Genetic Programming for Program Synthesis
+T2  - IEEE Transactions on Evolutionary Computation
+SP  - 1434
+EP  - 1448
+AU  - D. Sobania
+AU  - J. Petke
+AU  - M. Briesch
+AU  - F. Rothlauf
+PY  - 2025
+DO  - 10.1109/TEVC.2024.3410873
+JO  - IEEE Transactions on Evolutionary Computation
+IS  - 4
+SN  - 1941-0026
+VO  - 29
+VL  - 29
+JA  - IEEE Transactions on Evolutionary Computation
+Y1  - Aug. 2025
+ER  - 
+
+TY  - CONF
+TI  - Development of Language Model on Biomedical Domain to Pretrain Natural Language Processing
+T2  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+SP  - 1591
+EP  - 1595
+AU  - V. Gunturu
+AU  - Y. D. Priya
+AU  - G. V. Bachhav
+AU  - K. Praveena
+AU  - A. R. J
+AU  - N. Dhaliwal
+PY  - 2024
+DO  - 10.1109/IC3SE62002.2024.10593288
+JO  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE)
+Y1  - 9-11 May 2024
+ER  - 
+
+TY  - CONF
+TI  - A Review on Code Generation with LLMs: Application and Evaluation
+T2  - 2023 IEEE International Conference on Medical Artificial Intelligence (MedAI)
+SP  - 284
+EP  - 289
+AU  - J. Wang
+AU  - Y. Chen
+PY  - 2023
+DO  - 10.1109/MedAI59581.2023.00044
+JO  - 2023 IEEE International Conference on Medical Artificial Intelligence (MedAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Medical Artificial Intelligence (MedAI)
+Y1  - 18-19 Nov. 2023
+ER  - 
+
+TY  - CONF
+TI  - MaD: A Dataset for Interview-based BPM in Business Process Management
+T2  - 2023 International Joint Conference on Neural Networks (IJCNN)
+SP  - 1
+EP  - 8
+AU  - X. Li
+AU  - L. Ni
+AU  - R. Li
+AU  - J. Liu
+AU  - M. Zhang
+PY  - 2023
+DO  - 10.1109/IJCNN54540.2023.10191898
+JO  - 2023 International Joint Conference on Neural Networks (IJCNN)
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - 2023 International Joint Conference on Neural Networks (IJCNN)
+Y1  - 18-23 June 2023
+ER  - 
+
+TY  - CONF
+TI  - AgentFusion: A Multi-Agent Approach to Accurate Text Generation
+T2  - 2024 International Conference on Electrical and Computer Engineering Researches (ICECER)
+SP  - 1
+EP  - 8
+AU  - Y. Saeid
+AU  - T. Kopinski
+PY  - 2024
+DO  - 10.1109/ICECER62944.2024.10920460
+JO  - 2024 International Conference on Electrical and Computer Engineering Researches (ICECER)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Electrical and Computer Engineering Researches (ICECER)
+Y1  - 4-6 Dec. 2024
+ER  - 
+
+

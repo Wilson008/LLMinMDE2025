@@ -1,0 +1,503 @@
+TY  - JOUR
+TI  - Exploring New Frontiers in Agricultural NLP: Investigating the Potential of Large Language Models for Food Applications
+T2  - IEEE Transactions on Big Data
+SP  - 1235
+EP  - 1246
+AU  - S. Rezayi
+AU  - Z. Liu
+AU  - Z. Wu
+AU  - C. Dhakal
+AU  - B. Ge
+AU  - H. Dai
+AU  - G. Mai
+AU  - N. Liu
+AU  - C. Zhen
+AU  - T. Liu
+AU  - S. Li
+PY  - 2025
+DO  - 10.1109/TBDATA.2024.3442542
+JO  - IEEE Transactions on Big Data
+IS  - 3
+SN  - 2332-7790
+VO  - 11
+VL  - 11
+JA  - IEEE Transactions on Big Data
+Y1  - June 2025
+ER  - 
+
+TY  - CONF
+TI  - Large Language Models, Fine Tuning, Code Generation
+T2  - 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+SP  - 000191
+EP  - 000200
+AU  - L. Z. Juhász
+PY  - 2024
+DO  - 10.1109/CANDO-EPE65072.2024.10772760
+JO  - 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+IS  - 
+SN  - 2831-4506
+VO  - 
+VL  - 
+JA  - 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+Y1  - 17-18 Oct. 2024
+ER  - 
+
+TY  - JOUR
+TI  - FinLLMs: A Framework for Financial Reasoning Dataset Generation With Large Language Models
+T2  - IEEE Transactions on Big Data
+SP  - 2264
+EP  - 2277
+AU  - Z. Yuan
+AU  - K. Wang
+AU  - S. Zhu
+AU  - Y. Yuan
+AU  - J. Zhou
+AU  - Y. Zhu
+AU  - W. Wei
+PY  - 2025
+DO  - 10.1109/TBDATA.2024.3524083
+JO  - IEEE Transactions on Big Data
+IS  - 5
+SN  - 2332-7790
+VO  - 11
+VL  - 11
+JA  - IEEE Transactions on Big Data
+Y1  - Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - AskIt: Unified Programming Interface for Programming with Large Language Models
+T2  - 2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)
+SP  - 41
+EP  - 54
+AU  - K. Okuda
+AU  - S. Amarasinghe
+PY  - 2024
+DO  - 10.1109/CGO57630.2024.10444830
+JO  - 2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)
+IS  - 
+SN  - 2643-2838
+VO  - 
+VL  - 
+JA  - 2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)
+Y1  - 2-6 March 2024
+ER  - 
+
+TY  - CONF
+TI  - LLM-Driven Testing for Autonomous Driving Scenarios
+T2  - 2024 2nd International Conference on Foundation and Large Language Models (FLLM)
+SP  - 173
+EP  - 178
+AU  - N. Petrovic
+AU  - K. Lebioda
+AU  - V. Zolfaghari
+AU  - A. Schamschurko
+AU  - S. Kirchner
+AU  - N. Purschke
+AU  - F. Pan
+AU  - A. Knoll
+PY  - 2024
+DO  - 10.1109/FLLM63129.2024.10852505
+JO  - 2024 2nd International Conference on Foundation and Large Language Models (FLLM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 2nd International Conference on Foundation and Large Language Models (FLLM)
+Y1  - 26-29 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Effective Text Adaptation For LLM-Based ASR Through Soft Prompt Fine-Tuning
+T2  - 2024 IEEE Spoken Language Technology Workshop (SLT)
+SP  - 64
+EP  - 69
+AU  - Y. Ma
+AU  - Z. Liu
+AU  - O. Kalinli
+PY  - 2024
+DO  - 10.1109/SLT61566.2024.10832227
+JO  - 2024 IEEE Spoken Language Technology Workshop (SLT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE Spoken Language Technology Workshop (SLT)
+Y1  - 2-5 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Using Large Language Models to Extract UML Class Diagrams from Java Programs
+T2  - 2025 8th International Conference on Software and System Engineering (ICoSSE)
+SP  - 70
+EP  - 74
+AU  - H. A. Siala
+AU  - K. Lano
+PY  - 2025
+DO  - 10.1109/ICoSSE65712.2025.00020
+JO  - 2025 8th International Conference on Software and System Engineering (ICoSSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 8th International Conference on Software and System Engineering (ICoSSE)
+Y1  - 4-6 April 2025
+ER  - 
+
+TY  - CONF
+TI  - Generating Evaluation Criteria of Domain-Specific Large Language Model Using Word Vector Clustering
+T2  - 2024 IEEE 24th International Conference on Software Quality, Reliability, and Security Companion (QRS-C)
+SP  - 94
+EP  - 100
+AU  - J. Yang
+AU  - H. Xu
+AU  - R. Wang
+AU  - X. Ming
+AU  - S. Li
+PY  - 2024
+DO  - 10.1109/QRS-C63300.2024.00023
+JO  - 2024 IEEE 24th International Conference on Software Quality, Reliability, and Security Companion (QRS-C)
+IS  - 
+SN  - 2693-9371
+VO  - 
+VL  - 
+JA  - 2024 IEEE 24th International Conference on Software Quality, Reliability, and Security Companion (QRS-C)
+Y1  - 1-5 July 2024
+ER  - 
+
+TY  - CONF
+TI  - Research on Large Language Model-Based Management and Operation of Distributed Integrated Energy Systems
+T2  - 2025 2nd International Symposium on New Energy Technologies and Power Systems (NETPS)
+SP  - 76
+EP  - 80
+AU  - K. Chen
+AU  - X. Lin
+PY  - 2025
+DO  - 10.1109/NETPS65392.2025.11102046
+JO  - 2025 2nd International Symposium on New Energy Technologies and Power Systems (NETPS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 2nd International Symposium on New Energy Technologies and Power Systems (NETPS)
+Y1  - 23-25 May 2025
+ER  - 
+
+TY  - CONF
+TI  - From Zero to Sixty at the Speed of RAG: Improving YAML Recipe Generation via Retrieval
+T2  - 2025 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)
+SP  - 49
+EP  - 56
+AU  - F. Farmahinifarahani
+AU  - P. Babkin
+AU  - S. Alamir
+AU  - X. Liu
+PY  - 2025
+DO  - 10.1109/LLM4Code66737.2025.00011
+JO  - 2025 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)
+Y1  - 3-3 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Towards LLM-Powered Consistency in Model-Based Low-Code Platforms
+T2  - 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C)
+SP  - 364
+EP  - 369
+AU  - N. Hagel
+AU  - N. Hili
+AU  - A. Bartel
+AU  - A. Koziolek
+PY  - 2025
+DO  - 10.1109/ICSA-C65153.2025.00058
+JO  - 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 31 March-4 April 2025
+ER  - 
+
+TY  - CONF
+TI  - Experiment on Utilizing GPT-3.5 Language Model to Generate DSL of Data Management for Web Application Development using Qore-Base Platform
+T2  - 2023 IEEE International Conference on Data and Software Engineering (ICoDSE)
+SP  - 108
+EP  - 113
+AU  - A. N. Ufairah
+AU  - Y. Widyani
+PY  - 2023
+DO  - 10.1109/ICoDSE59534.2023.10291937
+JO  - 2023 IEEE International Conference on Data and Software Engineering (ICoDSE)
+IS  - 
+SN  - 2640-0227
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Data and Software Engineering (ICoDSE)
+Y1  - 7-8 Sept. 2023
+ER  - 
+
+TY  - CONF
+TI  - Large Language Models in Power Engineering Education: A Case Study on Solving Optimal Dispatch Coursework Problems
+T2  - 2024 21st International Conference on Information Technology Based Higher Education and Training (ITHET)
+SP  - 1
+EP  - 5
+AU  - A. Hickey
+AU  - C. Ó. Faoláin
+AU  - P. Cuffe
+PY  - 2024
+DO  - 10.1109/ITHET61869.2024.10837620
+JO  - 2024 21st International Conference on Information Technology Based Higher Education and Training (ITHET)
+IS  - 
+SN  - 2473-2060
+VO  - 
+VL  - 
+JA  - 2024 21st International Conference on Information Technology Based Higher Education and Training (ITHET)
+Y1  - 6-8 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Automated Domain Modeling with Large Language Models: A Comparative Study
+T2  - 2023 ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS)
+SP  - 162
+EP  - 172
+AU  - K. Chen
+AU  - Y. Yang
+AU  - B. Chen
+AU  - J. A. Hernández López
+AU  - G. Mussbacher
+AU  - D. Varró
+PY  - 2023
+DO  - 10.1109/MODELS58315.2023.00037
+JO  - 2023 ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS)
+Y1  - 1-6 Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - Formulating Financial Trading Strategies Using LLM: A DSL-Mediated Approach via in-Context Learning
+T2  - 2025 7th International Conference on Natural Language Processing (ICNLP)
+SP  - 6
+EP  - 13
+AU  - J. Wu
+AU  - D. Zhang
+AU  - Q. Niu
+PY  - 2025
+DO  - 10.1109/ICNLP65360.2025.11108657
+JO  - 2025 7th International Conference on Natural Language Processing (ICNLP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 7th International Conference on Natural Language Processing (ICNLP)
+Y1  - 21-23 March 2025
+ER  - 
+
+TY  - CONF
+TI  - DEVS Copilot: Towards Generative AI-Assisted Formal Simulation Modelling based on Large Language Models
+T2  - 2024 Winter Simulation Conference (WSC)
+SP  - 2785
+EP  - 2796
+AU  - T. Carreira-Munich
+AU  - V. Paz-Marcolla
+AU  - R. Castro
+PY  - 2024
+DO  - 10.1109/WSC63780.2024.10838994
+JO  - 2024 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2024 Winter Simulation Conference (WSC)
+Y1  - 15-18 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - DoctorGPT: A Large Language Model with Chinese Medical Question-Answering Capabilities
+T2  - 2023 International Conference on High Performance Big Data and Intelligent Systems (HDIS)
+SP  - 186
+EP  - 193
+AU  - W. Li
+AU  - L. Yu
+AU  - M. Wu
+AU  - J. Liu
+AU  - M. Hao
+AU  - Y. Li
+PY  - 2023
+DO  - 10.1109/HDIS60872.2023.10499472
+JO  - 2023 International Conference on High Performance Big Data and Intelligent Systems (HDIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on High Performance Big Data and Intelligent Systems (HDIS)
+Y1  - 6-8 Dec. 2023
+ER  - 
+
+TY  - CONF
+TI  - Towards AI-Augmented Co-Compilation for Smart IoT Systems Through Domain-Specific LLMs
+T2  - 2025 10th International Conference on Smart and Sustainable Technologies (SpliTech)
+SP  - 1
+EP  - 4
+AU  - F. Ciccozzi
+PY  - 2025
+DO  - 10.23919/SpliTech65624.2025.11091755
+JO  - 2025 10th International Conference on Smart and Sustainable Technologies (SpliTech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 10th International Conference on Smart and Sustainable Technologies (SpliTech)
+Y1  - 16-20 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Gradual Further Pre-training Architecture for Economics/Finance Domain Adaptation of Language Model
+T2  - 2022 IEEE International Conference on Big Data (Big Data)
+SP  - 2352
+EP  - 2355
+AU  - H. Sakaji
+AU  - M. Suzuki
+AU  - K. Izumi
+AU  - H. Mitsugi
+PY  - 2022
+DO  - 10.1109/BigData55660.2022.10020445
+JO  - 2022 IEEE International Conference on Big Data (Big Data)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Big Data (Big Data)
+Y1  - 17-20 Dec. 2022
+ER  - 
+
+TY  - JOUR
+TI  - Domain-Specific Language Model Pre-Training for Korean Tax Law Classification
+T2  - IEEE Access
+SP  - 46342
+EP  - 46353
+AU  - Y. H. Gu
+AU  - X. Piao
+AU  - H. Yin
+AU  - D. Jin
+AU  - R. Zheng
+AU  - S. J. Yoo
+PY  - 2022
+DO  - 10.1109/ACCESS.2022.3164098
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+ER  - 
+
+TY  - CONF
+TI  - PyHDL-Eval: An LLM Evaluation Framework for Hardware Design Using Python-Embedded DSLs
+T2  - 2024 ACM/IEEE 6th Symposium on Machine Learning for CAD (MLCAD)
+SP  - 1
+EP  - 17
+AU  - C. Batten
+AU  - N. Pinckney
+AU  - M. Liu
+AU  - H. Ren
+AU  - B. Khailany
+PY  - 2024
+DO  - 10.1109/MLCAD62225.2024.10740201
+JO  - 2024 ACM/IEEE 6th Symposium on Machine Learning for CAD (MLCAD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 ACM/IEEE 6th Symposium on Machine Learning for CAD (MLCAD)
+Y1  - 9-11 Sept. 2024
+ER  - 
+
+TY  - CONF
+TI  - Genetic Variant Effect Prediction of Major Depressive Disorder Using Large Language Models
+T2  - 2024 IEEE MIT Undergraduate Research Technology Conference (URTC)
+SP  - 1
+EP  - 3
+AU  - A. Tiwari
+AU  - G. Alterovitz
+PY  - 2024
+DO  - 10.1109/URTC65039.2024.10937554
+JO  - 2024 IEEE MIT Undergraduate Research Technology Conference (URTC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE MIT Undergraduate Research Technology Conference (URTC)
+Y1  - 11-13 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - EVGPT - Fine-Tuned Large Language Model for Electric Vehicle Operational Assistance
+T2  - 2024 4th International Conference on Emerging Frontiers in Electrical and Electronic Technologies (ICEFEET)
+SP  - 1
+EP  - 6
+AU  - K. S.
+AU  - B. M
+AU  - A. M. Mathew
+AU  - P. G.
+AU  - V. K.G.
+AU  - G. V.B.S
+PY  - 2024
+DO  - 10.1109/ICEFEET64463.2024.10866211
+JO  - 2024 4th International Conference on Emerging Frontiers in Electrical and Electronic Technologies (ICEFEET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 4th International Conference on Emerging Frontiers in Electrical and Electronic Technologies (ICEFEET)
+Y1  - 21-23 Nov. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Aligning Crowd-Sourced Human Feedback for Reinforcement Learning on Code Generation by Large Language Models
+T2  - IEEE Transactions on Big Data
+SP  - 1
+EP  - 12
+AU  - M. F. Wong
+AU  - C. W. Tan
+PY  - 2024
+DO  - 10.1109/TBDATA.2024.3524104
+JO  - IEEE Transactions on Big Data
+IS  - 
+SN  - 2332-7790
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Big Data
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - Encoding Conceptual Models for Machine Learning: A Systematic Review
+T2  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+SP  - 562
+EP  - 570
+AU  - S. J. Ali
+AU  - A. Gavric
+AU  - H. Proper
+AU  - D. Bork
+PY  - 2023
+DO  - 10.1109/MODELS-C59198.2023.00094
+JO  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+Y1  - 1-6 Oct. 2023
+ER  - 
+
+

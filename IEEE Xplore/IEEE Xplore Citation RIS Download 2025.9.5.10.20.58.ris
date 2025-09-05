@@ -1,0 +1,511 @@
+TY  - CONF
+TI  - Multi-Agentic Plan-and-Solve Engine for Managing System of Systems via Natural Language
+T2  - NOMS 2025-2025 IEEE Network Operations and Management Symposium
+SP  - 1
+EP  - 6
+AU  - C. Hegedűs
+AU  - Á. Tóth
+AU  - M. Bancsics
+AU  - P. Varga
+PY  - 2025
+DO  - 10.1109/NOMS57970.2025.11073647
+JO  - NOMS 2025-2025 IEEE Network Operations and Management Symposium
+IS  - 
+SN  - 2374-9709
+VO  - 
+VL  - 
+JA  - NOMS 2025-2025 IEEE Network Operations and Management Symposium
+Y1  - 12-16 May 2025
+ER  - 
+
+TY  - JOUR
+TI  - TARGET: Traffic Rule-Based Test Generation for Autonomous Driving via Validated LLM-Guided Knowledge Extraction
+T2  - IEEE Transactions on Software Engineering
+SP  - 1950
+EP  - 1968
+AU  - Y. Deng
+AU  - Z. Tu
+AU  - J. Yao
+AU  - M. Zhang
+AU  - T. Zhang
+AU  - X. Zheng
+PY  - 2025
+DO  - 10.1109/TSE.2025.3569086
+JO  - IEEE Transactions on Software Engineering
+IS  - 7
+SN  - 1939-3520
+VO  - 51
+VL  - 51
+JA  - IEEE Transactions on Software Engineering
+Y1  - July 2025
+ER  - 
+
+TY  - CONF
+TI  - Relative Pose Estimation through Affine Corrections of Monocular Depth Priors
+T2  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 16706
+EP  - 16716
+AU  - Y. Yu
+AU  - S. Liu
+AU  - R. Pautrat
+AU  - M. Pollefeys
+AU  - V. Larsson
+PY  - 2025
+DO  - 10.1109/CVPR52734.2025.01557
+JO  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 10-17 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Weakly-Supervised Learning Strategy for Domain-Specific Entity Recognition
+T2  - 2024 Sixth International Conference on Intelligent Computing in Data Sciences (ICDS)
+SP  - 1
+EP  - 8
+AU  - L. J. Weber
+AU  - K. J. Ramalingam
+AU  - C. Liu
+AU  - M. Beyer
+AU  - A. Zimmermann
+PY  - 2024
+DO  - 10.1109/ICDS62089.2024.10756418
+JO  - 2024 Sixth International Conference on Intelligent Computing in Data Sciences (ICDS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 Sixth International Conference on Intelligent Computing in Data Sciences (ICDS)
+Y1  - 23-24 Oct. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Improving FMEA Comprehensibility via Common-Sense Knowledge Graph Completion Techniques
+T2  - IEEE Access
+SP  - 127974
+EP  - 127986
+AU  - H. Razouk
+AU  - X. L. Liu
+AU  - R. Kern
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3331585
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - CONF
+TI  - Out-of-Distribution Detection for Contrastive Models Using Angular Distance Measures
+T2  - 2024 International Conference on Machine Learning and Applications (ICMLA)
+SP  - 766
+EP  - 773
+AU  - M. S. Hossain
+AU  - S. K. Jha
+AU  - C. Walker
+AU  - R. Ewetz
+PY  - 2024
+DO  - 10.1109/ICMLA61862.2024.00109
+JO  - 2024 International Conference on Machine Learning and Applications (ICMLA)
+IS  - 
+SN  - 1946-0759
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Machine Learning and Applications (ICMLA)
+Y1  - 18-20 Dec. 2024
+ER  - 
+
+TY  - JOUR
+TI  - On the Applicability of Code Language Models to Scientific Computing Programs
+T2  - IEEE Transactions on Software Engineering
+SP  - 1685
+EP  - 1701
+AU  - Q. Zhao
+AU  - F. Liu
+AU  - X. Long
+AU  - C. Wu
+AU  - L. Zhang
+PY  - 2025
+DO  - 10.1109/TSE.2025.3564599
+JO  - IEEE Transactions on Software Engineering
+IS  - 6
+SN  - 1939-3520
+VO  - 51
+VL  - 51
+JA  - IEEE Transactions on Software Engineering
+Y1  - June 2025
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Transfer Learning and Legal Named Entity Masking for Classification of Rhetorical Roles in Indian Legal Judgments
+T2  - 2025 5th International Conference on Pervasive Computing and Social Networking (ICPCSN)
+SP  - 1193
+EP  - 1200
+AU  - A. Ramani
+AU  - M. Venugopalan
+PY  - 2025
+DO  - 10.1109/ICPCSN65854.2025.11035781
+JO  - 2025 5th International Conference on Pervasive Computing and Social Networking (ICPCSN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Pervasive Computing and Social Networking (ICPCSN)
+Y1  - 14-16 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Zero-Shot Program Representation Learning
+T2  - 2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)
+SP  - 60
+EP  - 70
+AU  - N. Cui
+AU  - Y. Jiang
+AU  - X. Gu
+AU  - B. Shen
+PY  - 2022
+DO  - 10.1145/3524610.3527888
+JO  - 2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)
+IS  - 
+SN  - 2643-7171
+VO  - 
+VL  - 
+JA  - 2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)
+Y1  - 16-17 May 2022
+ER  - 
+
+TY  - JOUR
+TI  - VLCIM: A Vision-Language Cyclic Interaction Model for Industrial Defect Detection
+T2  - IEEE Transactions on Instrumentation and Measurement
+SP  - 1
+EP  - 13
+AU  - X. Shen
+AU  - L. Li
+AU  - Y. Ma
+AU  - S. Xu
+AU  - J. Liu
+AU  - Z. Yang
+AU  - Y. Shi
+PY  - 2025
+DO  - 10.1109/TIM.2025.3583364
+JO  - IEEE Transactions on Instrumentation and Measurement
+IS  - 
+SN  - 1557-9662
+VO  - 74
+VL  - 74
+JA  - IEEE Transactions on Instrumentation and Measurement
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Humans vs. ChatGPT: Evaluating Annotation Methods for Financial Corpora
+T2  - 2023 IEEE International Conference on Big Data (BigData)
+SP  - 2831
+EP  - 2838
+AU  - J. Kaikaus
+AU  - H. Li
+AU  - R. J. Brunner
+PY  - 2023
+DO  - 10.1109/BigData59044.2023.10386425
+JO  - 2023 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Big Data (BigData)
+Y1  - 15-18 Dec. 2023
+ER  - 
+
+TY  - CHAP
+TI  - Chapter 3: Prompt Engineering (2)
+T2  - Large Language Models for Developers: A Prompt-based Exploration of LLMs
+SP  - 185
+EP  - 282
+AU  - Oswald Campesato
+PY  - 2024
+DO  - 
+PB  - De Gruyter
+SN  - 9781501520952
+UR  - http://ieeexplore.ieee.org/document/11049828
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks
+T2  - 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+SP  - 6435
+EP  - 6445
+AU  - A. Quercia
+AU  - E. Yildiz
+AU  - Z. Cao
+AU  - K. Krajsek
+AU  - A. Morrison
+AU  - I. Assent
+AU  - H. Scharr
+PY  - 2025
+DO  - 10.1109/WACV61041.2025.00627
+JO  - 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+IS  - 
+SN  - 2642-9381
+VO  - 
+VL  - 
+JA  - 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+Y1  - 26 Feb.-6 March 2025
+ER  - 
+
+TY  - CONF
+TI  - Biomedical Named Entity Recognition Using Transformers with biLSTM + CRF and Graph Convolutional Neural Networks
+T2  - 2022 International Conference on INnovations in Intelligent SysTems and Applications (INISTA)
+SP  - 1
+EP  - 6
+AU  - G. Çelіkmasat
+AU  - M. Enes Aktürk
+AU  - Y. Emre Ertunç
+AU  - A. Majeed Issifu
+AU  - M. Can Ganіz
+PY  - 2022
+DO  - 10.1109/INISTA55318.2022.9894270
+JO  - 2022 International Conference on INnovations in Intelligent SysTems and Applications (INISTA)
+IS  - 
+SN  - 2768-7295
+VO  - 
+VL  - 
+JA  - 2022 International Conference on INnovations in Intelligent SysTems and Applications (INISTA)
+Y1  - 8-12 Aug. 2022
+ER  - 
+
+TY  - JOUR
+TI  - A Hybrid Transformer Architecture for Multiclass Mental Illness Prediction Using Social Media Text
+T2  - IEEE Access
+SP  - 12148
+EP  - 12167
+AU  - A. Karamat
+AU  - M. Imran
+AU  - M. U. Yaseen
+AU  - R. Bukhsh
+AU  - S. Aslam
+AU  - N. Ashraf
+PY  - 2025
+DO  - 10.1109/ACCESS.2024.3519308
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Advancing Clinical Text Summarization through Extractive Methods using BERT-Based Models on the NBME Dataset
+T2  - 2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)
+SP  - 1288
+EP  - 1294
+AU  - R. Sudarshan
+AU  - D. Sasikala
+AU  - S. Kalavathi
+PY  - 2023
+DO  - 10.1109/ICACRS58579.2023.10404906
+JO  - 2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 2nd International Conference on Automation, Computing and Renewable Systems (ICACRS)
+Y1  - 11-13 Dec. 2023
+ER  - 
+
+TY  - JOUR
+TI  - SaRLog: Semantic-Aware Robust Log Anomaly Detection via BERT-Augmented Contrastive Learning
+T2  - IEEE Internet of Things Journal
+SP  - 23727
+EP  - 23736
+AU  - L. A. Jilcha
+AU  - D. -H. Kim
+AU  - J. Kwak
+PY  - 2024
+DO  - 10.1109/JIOT.2024.3386183
+JO  - IEEE Internet of Things Journal
+IS  - 13
+SN  - 2327-4662
+VO  - 11
+VL  - 11
+JA  - IEEE Internet of Things Journal
+Y1  - 1 July1, 2024
+ER  - 
+
+TY  - JOUR
+TI  - Explicit and Implicit Box Equivariance Learning for Weakly-Supervised Rotated Object Detection
+T2  - IEEE Transactions on Emerging Topics in Computational Intelligence
+SP  - 509
+EP  - 521
+AU  - L. Wang
+AU  - Y. Zhan
+AU  - X. Lin
+AU  - B. Yu
+AU  - L. Ding
+AU  - J. Zhu
+AU  - D. Tao
+PY  - 2025
+DO  - 10.1109/TETCI.2024.3398020
+JO  - IEEE Transactions on Emerging Topics in Computational Intelligence
+IS  - 1
+SN  - 2471-285X
+VO  - 9
+VL  - 9
+JA  - IEEE Transactions on Emerging Topics in Computational Intelligence
+Y1  - Feb. 2025
+ER  - 
+
+TY  - CONF
+TI  - Iceberg: Enhancing HLS Modeling with Synthetic Data
+T2  - 2025 IEEE International Conference on LLM-Aided Design (ICLAD)
+SP  - 171
+EP  - 179
+AU  - Z. Ding
+AU  - T. Nguyen
+AU  - W. Li
+AU  - A. Grover
+AU  - Y. Sun
+AU  - J. Cong
+PY  - 2025
+DO  - 10.1109/ICLAD65226.2025.00032
+JO  - 2025 IEEE International Conference on LLM-Aided Design (ICLAD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on LLM-Aided Design (ICLAD)
+Y1  - 26-27 June 2025
+ER  - 
+
+TY  - CONF
+TI  - LLM-Aided Automatic Modeling for Security Protocol Verification
+T2  - 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)
+SP  - 642
+EP  - 654
+AU  - Z. Mao
+AU  - J. Wang
+AU  - J. Sun
+AU  - S. Qin
+AU  - J. Xiong
+PY  - 2025
+DO  - 10.1109/ICSE55347.2025.00197
+JO  - 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)
+Y1  - 26 April-6 May 2025
+ER  - 
+
+TY  - BOOK
+TI  - Neurosymbolic Programming in Scallop: Principles and Practice
+SP  - 1
+EP  - 
+AU  - Ziyang Li
+AU  - Jiani Huang
+AU  - Jason Liu
+AU  - Mayur Naik
+PY  - 2024
+DO  - 
+PB  - now
+SN  - 9781638284857
+UR  - http://ieeexplore.ieee.org/document/10848379
+ER  - 
+
+TY  - CONF
+TI  - APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation
+T2  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 23762
+EP  - 23772
+AU  - W. He
+AU  - Y. Zhang
+AU  - W. Zhuo
+AU  - L. Shen
+AU  - J. Yang
+AU  - S. Deng
+AU  - L. Sun
+PY  - 2024
+DO  - 10.1109/CVPR52733.2024.02243
+JO  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 16-22 June 2024
+ER  - 
+
+TY  - JOUR
+TI  - Deploying and Evaluating LLMs to Program Service Mobile Robots
+T2  - IEEE Robotics and Automation Letters
+SP  - 2853
+EP  - 2860
+AU  - Z. Hu
+AU  - F. Lucchetti
+AU  - C. Schlesinger
+AU  - Y. Saxena
+AU  - A. Freeman
+AU  - S. Modak
+AU  - A. Guha
+AU  - J. Biswas
+PY  - 2024
+DO  - 10.1109/LRA.2024.3360020
+JO  - IEEE Robotics and Automation Letters
+IS  - 3
+SN  - 2377-3766
+VO  - 9
+VL  - 9
+JA  - IEEE Robotics and Automation Letters
+Y1  - March 2024
+ER  - 
+
+TY  - JOUR
+TI  - SeSy: Linguistic Steganalysis Framework Integrating Semantic and Syntactic Features
+T2  - IEEE Signal Processing Letters
+SP  - 31
+EP  - 35
+AU  - J. Yang
+AU  - Z. Yang
+AU  - S. Zhang
+AU  - H. Tu
+AU  - Y. Huang
+PY  - 2022
+DO  - 10.1109/LSP.2021.3122901
+JO  - IEEE Signal Processing Letters
+IS  - 
+SN  - 1558-2361
+VO  - 29
+VL  - 29
+JA  - IEEE Signal Processing Letters
+Y1  - 2022
+ER  - 
+
+TY  - CONF
+TI  - Contrastive Learning for API Aspect Analysis
+T2  - 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+SP  - 637
+EP  - 648
+AU  - G. M. Shahariar
+AU  - T. Hasan
+AU  - A. Iqbal
+AU  - G. Uddin
+PY  - 2023
+DO  - 10.1109/ASE56229.2023.00064
+JO  - 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+IS  - 
+SN  - 2643-1572
+VO  - 
+VL  - 
+JA  - 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+Y1  - 11-15 Sept. 2023
+ER  - 
+
+

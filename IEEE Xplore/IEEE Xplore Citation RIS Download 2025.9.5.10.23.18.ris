@@ -1,0 +1,198 @@
+TY  - CONF
+TI  - Deriving Domain Models From User Stories: Human vs. Machines
+T2  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+SP  - 31
+EP  - 42
+AU  - M. Bragilovski
+AU  - A. T. Van Can
+AU  - F. Dalpiaz
+AU  - A. Sturm
+PY  - 2024
+DO  - 10.1109/RE59067.2024.00014
+JO  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+Y1  - 24-28 June 2024
+ER  - 
+
+TY  - CONF
+TI  - FloatAP: Supporting High-Performance Floating-Point Arithmetic in Associative Processors
+T2  - 2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+SP  - 657
+EP  - 670
+AU  - K. Yang
+AU  - J. F. Martínez
+PY  - 2024
+DO  - 10.1109/MICRO61859.2024.00055
+JO  - 2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+IS  - 
+SN  - 2379-3155
+VO  - 
+VL  - 
+JA  - 2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+Y1  - 2-6 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - HeRo: A State Machine-Based, Fault-Tolerant Framework for Heterogeneous Multi-Robot Collaboration
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 5806
+EP  - 5812
+AU  - R. Tang
+AU  - G. Wu
+AU  - T. Wang
+AU  - W. Chen
+AU  - J. Wei
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11128674
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Retraining a BERT Model for Transfer Learning in Requirements Engineering: A Preliminary Study
+T2  - 2022 IEEE 30th International Requirements Engineering Conference (RE)
+SP  - 309
+EP  - 315
+AU  - M. Ajagbe
+AU  - L. Zhao
+PY  - 2022
+DO  - 10.1109/RE54965.2022.00046
+JO  - 2022 IEEE 30th International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2022 IEEE 30th International Requirements Engineering Conference (RE)
+Y1  - 15-19 Aug. 2022
+ER  - 
+
+TY  - CONF
+TI  - FHE-Booster: Accelerating Fully Homomorphic Execution with Fine-tuned Bootstrapping Scheduling
+T2  - 2023 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+SP  - 293
+EP  - 303
+AU  - T. White
+AU  - C. Gouert
+AU  - C. Yang
+AU  - N. G. Tsoutsos
+PY  - 2023
+DO  - 10.1109/HOST55118.2023.10132930
+JO  - 2023 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+IS  - 
+SN  - 2765-8406
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+Y1  - 1-4 May 2023
+ER  - 
+
+TY  - CONF
+TI  - Visual Agentic AI for Spatial Reasoning with a Dynamic API
+T2  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 19446
+EP  - 19455
+AU  - D. Marsili
+AU  - R. Agrawal
+AU  - Y. Yue
+AU  - G. Gkioxari
+PY  - 2025
+DO  - 10.1109/CVPR52734.2025.01811
+JO  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 10-17 June 2025
+ER  - 
+
+TY  - JOUR
+TI  - Enhancements to Language Modeling Techniques for Adaptable Log Message Classification
+T2  - IEEE Transactions on Network and Service Management
+SP  - 4662
+EP  - 4675
+AU  - Y. Shehu
+AU  - R. Harper
+PY  - 2022
+DO  - 10.1109/TNSM.2022.3192756
+JO  - IEEE Transactions on Network and Service Management
+IS  - 4
+SN  - 1932-4537
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Network and Service Management
+Y1  - Dec. 2022
+ER  - 
+
+TY  - CONF
+TI  - GAIA: A Comprehensive Pipeline for Enabling Aircraft Digital Twin Creation
+T2  - 2025 IEEE 34th International Symposium on Industrial Electronics (ISIE)
+SP  - 1
+EP  - 8
+AU  - F. Biondani
+AU  - L. Capogrosso
+AU  - U. Khan
+AU  - N. Dall'Ora
+AU  - E. Fraccaroli
+AU  - D. F. Migliore
+AU  - F. Acerra
+AU  - M. Cristani
+AU  - F. Fummi
+PY  - 2025
+DO  - 10.1109/ISIE62713.2025.11124604
+JO  - 2025 IEEE 34th International Symposium on Industrial Electronics (ISIE)
+IS  - 
+SN  - 2163-5145
+VO  - 
+VL  - 
+JA  - 2025 IEEE 34th International Symposium on Industrial Electronics (ISIE)
+Y1  - 20-23 June 2025
+ER  - 
+
+TY  - JOUR
+TI  - Multi-modal Depression Detection in Interview via Exploring Emotional Distribution Information
+T2  - IEEE Transactions on Multimedia
+SP  - 1
+EP  - 13
+AU  - Z. Zhou
+AU  - Y. Guo
+AU  - S. Hao
+AU  - R. Hong
+PY  - 2025
+DO  - 10.1109/TMM.2025.3590939
+JO  - IEEE Transactions on Multimedia
+IS  - 
+SN  - 1941-0077
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Multimedia
+Y1  - 
+ER  - 
+
+TY  - JOUR
+TI  - Rewriting the Unix Stream Editor in Rust [Adventures in Code]
+T2  - IEEE Software
+SP  - 21
+EP  - 25
+AU  - D. Spinellis
+PY  - 2025
+DO  - 10.1109/MS.2025.3579008
+JO  - IEEE Software
+IS  - 5
+SN  - 1937-4194
+VO  - 42
+VL  - 42
+JA  - IEEE Software
+Y1  - Sept.-Oct. 2025
+ER  - 
+
+

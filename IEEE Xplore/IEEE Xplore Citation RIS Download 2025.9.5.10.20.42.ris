@@ -1,0 +1,531 @@
+TY  - CONF
+TI  - LLM-Aided Compilation for Tensor Accelerators
+T2  - 2024 IEEE LLM Aided Design Workshop (LAD)
+SP  - 1
+EP  - 16
+AU  - C. Hong
+AU  - S. Bhatia
+AU  - A. Haan
+AU  - S. K. Dong
+AU  - D. Nikiforov
+AU  - A. Cheung
+AU  - Y. S. Shaov
+PY  - 2024
+DO  - 10.1109/LAD62341.2024.10691720
+JO  - 2024 IEEE LLM Aided Design Workshop (LAD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE LLM Aided Design Workshop (LAD)
+Y1  - 28-29 June 2024
+ER  - 
+
+TY  - CONF
+TI  - MonoCoder: Domain-Specific Code Language Model for HPC Codes and Tasks
+T2  - 2024 IEEE High Performance Extreme Computing Conference (HPEC)
+SP  - 1
+EP  - 7
+AU  - T. Kadosh
+AU  - N. Hasabnis
+AU  - V. A. Vo
+AU  - N. Schneider
+AU  - N. Krien
+AU  - M. Capotă
+AU  - A. Wasay
+AU  - G. Tamir
+AU  - T. Willke
+AU  - N. Ahmed
+AU  - Y. Pinter
+AU  - T. Mattson
+AU  - G. Oren
+PY  - 2024
+DO  - 10.1109/HPEC62836.2024.10938441
+JO  - 2024 IEEE High Performance Extreme Computing Conference (HPEC)
+IS  - 
+SN  - 2643-1971
+VO  - 
+VL  - 
+JA  - 2024 IEEE High Performance Extreme Computing Conference (HPEC)
+Y1  - 23-27 Sept. 2024
+ER  - 
+
+TY  - CONF
+TI  - A Joint NLP Approach Applied to Automotive Aftermarket Services
+T2  - 2025 5th International Symposium on Computer Technology and Information Science (ISCTIS)
+SP  - 257
+EP  - 260
+AU  - L. Hu
+PY  - 2025
+DO  - 10.1109/ISCTIS65944.2025.11065008
+JO  - 2025 5th International Symposium on Computer Technology and Information Science (ISCTIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Symposium on Computer Technology and Information Science (ISCTIS)
+Y1  - 16-18 May 2025
+ER  - 
+
+TY  - CONF
+TI  - AF Adapter: Continual Pretraining for Building Chinese Biomedical Language Model
+T2  - 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+SP  - 953
+EP  - 957
+AU  - Y. Yan
+AU  - K. Xue
+AU  - X. Shi
+AU  - Q. Ye
+AU  - J. Liu
+AU  - T. Ruan
+PY  - 2023
+DO  - 10.1109/BIBM58861.2023.10385733
+JO  - 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+IS  - 
+SN  - 2156-1133
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+Y1  - 5-8 Dec. 2023
+ER  - 
+
+TY  - CONF
+TI  - LLM-Enabled Network Experimentation Workflow: Channel Capacity of SC Diversity Receiver with $\boldsymbol{L}$ Branches in $\boldsymbol{\alpha}-\boldsymbol{\mu}$ Fading and Weibul Co-Channel Interference Environment Case Study
+T2  - 2024 11th International Conference on Electrical, Electronic and Computing Engineering (IcETRAN)
+SP  - 1
+EP  - 5
+AU  - D. Milic
+AU  - N. Petrovic
+AU  - S. Suljovic
+AU  - J. Vujic
+AU  - V. Vujovic
+AU  - R. Stefanovic
+PY  - 2024
+DO  - 10.1109/IcETRAN62308.2024.10645141
+JO  - 2024 11th International Conference on Electrical, Electronic and Computing Engineering (IcETRAN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 11th International Conference on Electrical, Electronic and Computing Engineering (IcETRAN)
+Y1  - 3-6 June 2024
+ER  - 
+
+TY  - CONF
+TI  - Question Answering on Biomedical Research Papers using Transfer Learning on BERT-Base Models
+T2  - 2023 7th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)
+SP  - 496
+EP  - 501
+AU  - S. Pudasaini
+AU  - S. Shakya
+PY  - 2023
+DO  - 10.1109/I-SMAC58438.2023.10290240
+JO  - 2023 7th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)
+IS  - 
+SN  - 2768-0673
+VO  - 
+VL  - 
+JA  - 2023 7th International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)
+Y1  - 11-13 Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - RAG Pipeline for Domain Specific Applications: A Case Study in Disseminating Dementia Care Practices
+T2  - 2025 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+SP  - 139
+EP  - 143
+AU  - A. Cummings
+AU  - X. Zhang
+AU  - M. Olaniran
+AU  - M. Akintomide
+PY  - 2025
+DO  - 
+JO  - 2025 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+IS  - 
+SN  - 2832-2975
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+Y1  - 24-26 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Beyond Verilog: Agents for Emerging HDLs
+T2  - 2025 IEEE International Conference on Omni-layer Intelligent Systems (COINS)
+SP  - 1
+EP  - 7
+AU  - F. Rabiei
+AU  - M. Zakharov
+AU  - J. Renau
+PY  - 2025
+DO  - 10.1109/COINS65080.2025.11125745
+JO  - 2025 IEEE International Conference on Omni-layer Intelligent Systems (COINS)
+IS  - 
+SN  - 2996-5330
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Omni-layer Intelligent Systems (COINS)
+Y1  - 4-6 Aug. 2025
+ER  - 
+
+TY  - JOUR
+TI  - GPTAC: Domain-Specific Generative Pre-Trained Model for Approximate Circuit Design Exploration
+T2  - IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+SP  - 349
+EP  - 360
+AU  - S. Yi
+AU  - W. Zuo
+AU  - H. Wu
+AU  - R. Dai
+AU  - W. Qian
+AU  - J. Chen
+PY  - 2025
+DO  - 10.1109/JETCAS.2025.3568606
+JO  - IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+IS  - 2
+SN  - 2156-3365
+VO  - 15
+VL  - 15
+JA  - IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+Y1  - June 2025
+ER  - 
+
+TY  - CONF
+TI  - An Empirical Comparison of Code Generation Approaches for Ansible
+T2  - 2024 IEEE/ACM 2nd International Workshop on Interpretability, Robustness, and Benchmarking in Neural Software Engineering (InteNSE)
+SP  - 1
+EP  - 6
+AU  - B. Darnell
+AU  - H. Chopra
+AU  - A. Councilman
+AU  - D. Grove
+AU  - Y. -X. Wang
+AU  - V. Adve
+PY  - 2024
+DO  - 
+JO  - 2024 IEEE/ACM 2nd International Workshop on Interpretability, Robustness, and Benchmarking in Neural Software Engineering (InteNSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE/ACM 2nd International Workshop on Interpretability, Robustness, and Benchmarking in Neural Software Engineering (InteNSE)
+Y1  - 15-15 April 2024
+ER  - 
+
+TY  - CONF
+TI  - FIXDRIVE: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation
+T2  - 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)
+SP  - 1921
+EP  - 1933
+AU  - Y. Sun
+AU  - C. M. Poskitt
+AU  - K. Wang
+AU  - J. Sun
+PY  - 2025
+DO  - 10.1109/ICSE55347.2025.00216
+JO  - 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)
+Y1  - 26 April-6 May 2025
+ER  - 
+
+TY  - JOUR
+TI  - Automatic Speech Recognition Post-Processing for Readability: Task, Dataset and a Two-Stage Pre-Trained Approach
+T2  - IEEE Access
+SP  - 117053
+EP  - 117066
+AU  - J. Liao
+AU  - Y. Shi
+AU  - Y. Xu
+PY  - 2022
+DO  - 10.1109/ACCESS.2022.3219838
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+ER  - 
+
+TY  - CONF
+TI  - Generative Models for Temporal-Based Task Definition
+T2  - 2024 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)
+SP  - 109
+EP  - 114
+AU  - L. K. Vindbjerg
+AU  - L. Esterle
+PY  - 2024
+DO  - 10.1109/ACSOS-C63493.2024.00040
+JO  - 2024 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)
+Y1  - 16-20 Sept. 2024
+ER  - 
+
+TY  - CONF
+TI  - ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles
+T2  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 15459
+EP  - 15469
+AU  - J. Zhang
+AU  - C. Xu
+AU  - B. Li
+PY  - 2024
+DO  - 10.1109/CVPR52733.2024.01464
+JO  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 16-22 June 2024
+ER  - 
+
+TY  - CONF
+TI  - The Scene Language: Representing Scenes with Programs, Words, and Embeddings
+T2  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 24625
+EP  - 24634
+AU  - Y. Zhang
+AU  - Z. Li
+AU  - M. Zhou
+AU  - S. Wu
+AU  - J. Wu
+PY  - 2025
+DO  - 10.1109/CVPR52734.2025.02293
+JO  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 10-17 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Addressing Context Awareness Requirements of IoT Systems: A Model-Driven Approach
+T2  - 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)
+SP  - 1462
+EP  - 1473
+AU  - M. R. Tabassum
+AU  - S. Mustafiz
+PY  - 2025
+DO  - 10.1109/COMPSAC65507.2025.00183
+JO  - 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)
+IS  - 
+SN  - 2836-3795
+VO  - 
+VL  - 
+JA  - 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)
+Y1  - 8-11 July 2025
+ER  - 
+
+TY  - JOUR
+TI  - Applications of LLMs for Generating Cyber Security Exercise Scenarios
+T2  - IEEE Access
+SP  - 143806
+EP  - 143822
+AU  - M. Mudassar Yamin
+AU  - E. Hashmi
+AU  - M. Ullah
+AU  - B. Katt
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3468914
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - CONF
+TI  - Towards Trustworthy LLMs for Code: A Data-Centric Synergistic Auditing Framework
+T2  - 2025 IEEE/ACM 47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)
+SP  - 56
+EP  - 60
+AU  - C. Wang
+AU  - Z. Chen
+AU  - T. Li
+AU  - Y. Zhang
+AU  - Y. Liu
+PY  - 2025
+DO  - 10.1109/ICSE-NIER66352.2025.00017
+JO  - 2025 IEEE/ACM 47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)
+IS  - 
+SN  - 2832-7632
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM 47th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)
+Y1  - 27 April-3 May 2025
+ER  - 
+
+TY  - CONF
+TI  - How to Automate Feedback on Diagrammatic Reasoning with a Relevant Degree of Freedom?
+T2  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1
+EP  - 10
+AU  - G. Brieven
+AU  - L. Malcev
+AU  - B. Donnet
+PY  - 2025
+DO  - 10.1109/EDUCON62633.2025.11016495
+JO  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 22-25 April 2025
+ER  - 
+
+TY  - CONF
+TI  - Enhancing GPT-3.5's Proficiency in Netlogo Through Few-Shot Prompting and Retrieval-Augmented Generation
+T2  - 2024 Winter Simulation Conference (WSC)
+SP  - 666
+EP  - 677
+AU  - J. Martínez
+AU  - B. Llinas
+AU  - J. G. Botello
+AU  - J. J. Padilla
+AU  - E. Frydenlund
+PY  - 2024
+DO  - 10.1109/WSC63780.2024.10838967
+JO  - 2024 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2024 Winter Simulation Conference (WSC)
+Y1  - 15-18 Dec. 2024
+ER  - 
+
+TY  - JOUR
+TI  - N-Version Assessment and Enhancement of Generative AI: Differential GAI
+T2  - IEEE Software
+SP  - 76
+EP  - 83
+AU  - M. Kessel
+AU  - C. Atkinson
+PY  - 2025
+DO  - 10.1109/MS.2024.3469388
+JO  - IEEE Software
+IS  - 2
+SN  - 1937-4194
+VO  - 42
+VL  - 42
+JA  - IEEE Software
+Y1  - March-April 2025
+ER  - 
+
+TY  - CONF
+TI  - Towards Conversational AI for Human-Machine Collaborative MLOps
+T2  - 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
+SP  - 1079
+EP  - 1086
+AU  - G. Fatouros
+AU  - G. Makridis
+AU  - G. Kousiouris
+AU  - J. Soldatos
+AU  - A. Tsadimas
+AU  - D. Kyriazis
+PY  - 2025
+DO  - 10.1109/DCOSS-IoT65416.2025.00162
+JO  - 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
+IS  - 
+SN  - 2325-2944
+VO  - 
+VL  - 
+JA  - 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
+Y1  - 9-11 June 2025
+ER  - 
+
+TY  - CONF
+TI  - DataLab: A Unified Platform for LLM-Powered Business Intelligence
+T2  - 2025 IEEE 41st International Conference on Data Engineering (ICDE)
+SP  - 4346
+EP  - 4359
+AU  - L. Weng
+AU  - Y. Tang
+AU  - Y. Feng
+AU  - Z. Chang
+AU  - R. Chen
+AU  - H. Feng
+AU  - C. Hou
+AU  - D. Huang
+AU  - Y. Li
+AU  - H. Rao
+AU  - H. Wang
+AU  - C. Wei
+AU  - X. Yang
+AU  - Y. Zhang
+AU  - Y. Zheng
+AU  - X. Huang
+AU  - M. Zhu
+AU  - Y. Ma
+AU  - B. Cui
+AU  - P. Chen
+AU  - W. Chen
+PY  - 2025
+DO  - 10.1109/ICDE65448.2025.00326
+JO  - 2025 IEEE 41st International Conference on Data Engineering (ICDE)
+IS  - 
+SN  - 2375-026X
+VO  - 
+VL  - 
+JA  - 2025 IEEE 41st International Conference on Data Engineering (ICDE)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - A Comparative Study of BERT and Traditional Machine Learning Models in E-commerce Review Classification
+T2  - 2024 International Conference on Orange Technology (ICOT)
+SP  - 1
+EP  - 4
+AU  - G. Xiao
+AU  - J. Wu
+AU  - S. -P. Tseng
+PY  - 2024
+DO  - 10.1109/ICOT64290.2024.10936932
+JO  - 2024 International Conference on Orange Technology (ICOT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Orange Technology (ICOT)
+Y1  - 15-18 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Scalable Autoregressive Monocular Depth Estimation
+T2  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 6262
+EP  - 6272
+AU  - J. Wang
+AU  - J. Liu
+AU  - D. Tang
+AU  - W. Wang
+AU  - W. Li
+AU  - D. Chen
+AU  - J. Chen
+AU  - J. Wu
+PY  - 2025
+DO  - 10.1109/CVPR52734.2025.00587
+JO  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 10-17 June 2025
+ER  - 
+
+

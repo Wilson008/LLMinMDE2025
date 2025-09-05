@@ -1,0 +1,516 @@
+TY  - CONF
+TI  - Can LLMs Understand Parallel and Distributed Machine Learning Algorithms in AIoT?
+T2  - 2024 8th Asian Conference on Artificial Intelligence Technology (ACAIT)
+SP  - 501
+EP  - 510
+AU  - H. Du
+AU  - W. Li
+AU  - X. Ding
+AU  - H. Huo
+PY  - 2024
+DO  - 10.1109/ACAIT63902.2024.11022196
+JO  - 2024 8th Asian Conference on Artificial Intelligence Technology (ACAIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 8th Asian Conference on Artificial Intelligence Technology (ACAIT)
+Y1  - 8-10 Nov. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Grammar-based Game Description Generation using Large Language Models
+T2  - IEEE Transactions on Games
+SP  - 1
+EP  - 14
+AU  - T. Tanaka
+AU  - E. Simo-Serra
+PY  - 2024
+DO  - 10.1109/TG.2024.3520214
+JO  - IEEE Transactions on Games
+IS  - 
+SN  - 2475-1510
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Games
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - GeneSum: Large Language Model-based Gene Summary Extraction
+T2  - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+SP  - 1438
+EP  - 1443
+AU  - Z. Chen
+AU  - C. Hu
+AU  - M. Wu
+AU  - Q. Long
+AU  - X. Wang
+AU  - Y. Zhou
+AU  - M. Xiao
+PY  - 2024
+DO  - 10.1109/BIBM62325.2024.10822279
+JO  - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+IS  - 
+SN  - 2156-1133
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+Y1  - 3-6 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Generative AI for Diagrams as Code and Code as Diagrams
+T2  - 2025 IEEE 19th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+SP  - 01
+EP  - 06
+AU  - M. Trifan
+AU  - B. Ionescu
+AU  - D. Ionescu
+PY  - 2025
+DO  - 10.1109/SACI66288.2025.11030105
+JO  - 2025 IEEE 19th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+IS  - 
+SN  - 2765-818X
+VO  - 
+VL  - 
+JA  - 2025 IEEE 19th International Symposium on Applied Computational Intelligence and Informatics (SACI)
+Y1  - 19-24 May 2025
+ER  - 
+
+TY  - CONF
+TI  - AutoPAC: Exploring LLMs for Automating Policy to Code Conversion in Business Organizations
+T2  - 2025 17th International Conference on COMmunication Systems and NETworks (COMSNETS)
+SP  - 667
+EP  - 675
+AU  - N. Chowdhary
+AU  - T. Dutta
+AU  - S. Chattopadhyay
+AU  - S. Chakraborty
+PY  - 2025
+DO  - 10.1109/COMSNETS63942.2025.10885751
+JO  - 2025 17th International Conference on COMmunication Systems and NETworks (COMSNETS)
+IS  - 
+SN  - 2155-2509
+VO  - 
+VL  - 
+JA  - 2025 17th International Conference on COMmunication Systems and NETworks (COMSNETS)
+Y1  - 6-10 Jan. 2025
+ER  - 
+
+TY  - CONF
+TI  - Cross-Domain Deep Code Search with Meta Learning
+T2  - 2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE)
+SP  - 487
+EP  - 498
+AU  - Y. Chai
+AU  - H. Zhang
+AU  - B. Shen
+AU  - X. Gu
+PY  - 2022
+DO  - 10.1145/3510003.3510125
+JO  - 2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE)
+Y1  - 25-27 May 2022
+ER  - 
+
+TY  - JOUR
+TI  - DSG-KD: Knowledge Distillation From Domain-Specific to General Language Models
+T2  - IEEE Access
+SP  - 130973
+EP  - 130982
+AU  - S. Cho
+AU  - J. Jeon
+AU  - D. Lee
+AU  - C. Lee
+AU  - J. Kim
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3457850
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - CONF
+TI  - Optimizing Named Entity Recognition for Improving Logical Formulae Abstraction from Technical Requirements Documents
+T2  - 2023 10th International Conference on Dependable Systems and Their Applications (DSA)
+SP  - 211
+EP  - 222
+AU  - A. Perko
+AU  - H. Zhao
+AU  - F. Wotawa
+PY  - 2023
+DO  - 10.1109/DSA59317.2023.00034
+JO  - 2023 10th International Conference on Dependable Systems and Their Applications (DSA)
+IS  - 
+SN  - 2767-6684
+VO  - 
+VL  - 
+JA  - 2023 10th International Conference on Dependable Systems and Their Applications (DSA)
+Y1  - 10-11 Aug. 2023
+ER  - 
+
+TY  - CONF
+TI  - A Domain-Agnostic Neurosymbolic Approach for Big Social Data Analysis: Evaluating Mental Health Sentiment on Social Media during COVID-19
+T2  - 2024 IEEE International Conference on Big Data (BigData)
+SP  - 959
+EP  - 968
+AU  - V. Khandelwal
+AU  - M. Gaur
+AU  - U. Kursuncu
+AU  - V. L. Shalin
+AU  - A. P. Sheth
+PY  - 2024
+DO  - 10.1109/BigData62323.2024.10825174
+JO  - 2024 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 2573-2978
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Big Data (BigData)
+Y1  - 15-18 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Financial Voucher Analysis with LVMs and Financial LLMs
+T2  - 2025 International Conference on Computing Technologies (ICOCT)
+SP  - 1
+EP  - 6
+AU  - M. M. Fuad
+AU  - V. Akuthota
+AU  - A. Rahman
+AU  - S. A. Farea
+AU  - M. Rahman
+AU  - A. E. Chowdhury
+AU  - A. S. Anwar
+AU  - M. S. Ashraf
+PY  - 2025
+DO  - 10.1109/ICOCT64433.2025.11118347
+JO  - 2025 International Conference on Computing Technologies (ICOCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Computing Technologies (ICOCT)
+Y1  - 13-14 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Context Discovery for Digital Service Chain with OpenC2
+T2  - 2025 IEEE 11th International Conference on Network Softwarization (NetSoft)
+SP  - 579
+EP  - 584
+AU  - S. Tanzarella
+AU  - M. Repetto
+PY  - 2025
+DO  - 10.1109/NetSoft64993.2025.11080629
+JO  - 2025 IEEE 11th International Conference on Network Softwarization (NetSoft)
+IS  - 
+SN  - 2693-9789
+VO  - 
+VL  - 
+JA  - 2025 IEEE 11th International Conference on Network Softwarization (NetSoft)
+Y1  - 23-27 June 2025
+ER  - 
+
+TY  - CONF
+TI  - CLIMB: Language-Guided Continual Learning for Task Planning with Iterative Model Building
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 1
+EP  - 8
+AU  - W. Byrnes
+AU  - M. Bogdanovic
+AU  - A. Balakirsky
+AU  - S. Balakirsky
+AU  - A. Garg
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11127439
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Language Model for Statistics Domain
+T2  - 2022 5th International Conference on Artificial Intelligence for Industries (AI4I)
+SP  - 54
+EP  - 54
+AU  - Y. -S. Jeong
+AU  - E. Kim
+AU  - J. Hwang
+AU  - M. E. Mswahili
+AU  - Y. Kim
+PY  - 2022
+DO  - 10.1109/AI4I54798.2022.00020
+JO  - 2022 5th International Conference on Artificial Intelligence for Industries (AI4I)
+IS  - 
+SN  - 2770-4718
+VO  - 
+VL  - 
+JA  - 2022 5th International Conference on Artificial Intelligence for Industries (AI4I)
+Y1  - 19-21 Sept. 2022
+ER  - 
+
+TY  - CONF
+TI  - Data Query and Mining Technology based on Computer Natural Language Processing and DSL
+T2  - 2025 4th International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
+SP  - 1
+EP  - 5
+AU  - W. Zhang
+AU  - X. Yi
+AU  - H. Tan
+AU  - J. Wang
+PY  - 2025
+DO  - 10.1109/ICDCECE65353.2025.11035541
+JO  - 2025 4th International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 4th International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
+Y1  - 25-26 April 2025
+ER  - 
+
+TY  - CONF
+TI  - ChatGarment: Garment Estimation, Generation and Editing via Large Language Models
+T2  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 2924
+EP  - 2934
+AU  - S. Bian
+AU  - C. Xu
+AU  - Y. Xiu
+AU  - A. Grigorev
+AU  - Z. Liu
+AU  - C. Lu
+AU  - M. J. Black
+AU  - Y. Feng
+PY  - 2025
+DO  - 10.1109/CVPR52734.2025.00278
+JO  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 10-17 June 2025
+ER  - 
+
+TY  - CONF
+TI  - DianGPT: Bridging Precision and Efficiency for a Domain-Specific Question-Answering System
+T2  - 2025 IEEE 11th International Conference on High Performance and Smart Computing (HPSC)
+SP  - 72
+EP  - 77
+AU  - X. Chen
+AU  - Y. Jiang
+AU  - H. Pei
+AU  - X. Hei
+PY  - 2025
+DO  - 10.1109/HPSC66065.2025.00017
+JO  - 2025 IEEE 11th International Conference on High Performance and Smart Computing (HPSC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE 11th International Conference on High Performance and Smart Computing (HPSC)
+Y1  - 9-11 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Abstract Visual Reasoning Enabled by Language
+T2  - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
+SP  - 2643
+EP  - 2647
+AU  - G. Camposampiero
+AU  - L. Houmard
+AU  - B. Estermann
+AU  - J. Mathys
+AU  - R. Wattenhofer
+PY  - 2023
+DO  - 10.1109/CVPRW59228.2023.00264
+JO  - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
+IS  - 
+SN  - 2160-7516
+VO  - 
+VL  - 
+JA  - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)
+Y1  - 17-24 June 2023
+ER  - 
+
+TY  - CONF
+TI  - ConfliBERT-Spanish: A Pre-trained Spanish Language Model for Political Conflict and Violence
+T2  - 2023 7th IEEE Congress on Information Science and Technology (CiSt)
+SP  - 287
+EP  - 292
+AU  - W. Yang
+AU  - S. Alsarra
+AU  - L. Abdeljaber
+AU  - N. Zawad
+AU  - Z. Delaram
+AU  - J. Osorio
+AU  - L. Khan
+AU  - P. T. Brandt
+AU  - V. D’Orazio
+PY  - 2023
+DO  - 10.1109/CiSt56084.2023.10409883
+JO  - 2023 7th IEEE Congress on Information Science and Technology (CiSt)
+IS  - 
+SN  - 2327-1884
+VO  - 
+VL  - 
+JA  - 2023 7th IEEE Congress on Information Science and Technology (CiSt)
+Y1  - 16-22 Dec. 2023
+ER  - 
+
+TY  - CONF
+TI  - Code Gradients: Towards Automated Traceability of LLM-Generated Code
+T2  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+SP  - 321
+EP  - 329
+AU  - M. North
+AU  - A. Atapour-Abarghouei
+AU  - N. Bencomo
+PY  - 2024
+DO  - 10.1109/RE59067.2024.00038
+JO  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2024 IEEE 32nd International Requirements Engineering Conference (RE)
+Y1  - 24-28 June 2024
+ER  - 
+
+TY  - CONF
+TI  - Chat2Code: A Chatbot for Model Specification and Code Generation, The Case of Smart Contracts
+T2  - 2023 IEEE International Conference on Software Services Engineering (SSE)
+SP  - 50
+EP  - 60
+AU  - I. Qasse
+AU  - S. Mishra
+AU  - B. þ. Jónsson
+AU  - F. Khomh
+AU  - M. Hamdaqa
+PY  - 2023
+DO  - 10.1109/SSE60056.2023.00018
+JO  - 2023 IEEE International Conference on Software Services Engineering (SSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Software Services Engineering (SSE)
+Y1  - 2-8 July 2023
+ER  - 
+
+TY  - CONF
+TI  - LLMs as a System of Multiple Expert Agents: An Approach to Solve the Abstraction and Reasoning Corpus (ARC) Challenge
+T2  - 2024 IEEE Conference on Artificial Intelligence (CAI)
+SP  - 782
+EP  - 787
+AU  - J. C. Min Tan
+AU  - M. Motani
+PY  - 2024
+DO  - 10.1109/CAI59869.2024.00149
+JO  - 2024 IEEE Conference on Artificial Intelligence (CAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE Conference on Artificial Intelligence (CAI)
+Y1  - 25-27 June 2024
+ER  - 
+
+TY  - JOUR
+TI  - BATRACIO: BAsic, TRAnslational, Clinical, Research Phase Identification in BiOmedical Publications
+T2  - IEEE Access
+SP  - 146476
+EP  - 146493
+AU  - N. Durán-Silva
+AU  - J. Carrillo-de-Albornoz
+AU  - L. Plaza
+AU  - S. Ricardo
+AU  - F. A. Massucci
+AU  - S. Veiga
+AU  - A. Ramos-Prats
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3463717
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - Abstractive Summarization of Historical Documents: A New Dataset and Novel Method Using a Domain-Specific Pretrained Model
+T2  - IEEE Access
+SP  - 10918
+EP  - 10932
+AU  - K. Murugaraj
+AU  - S. Lamsiyah
+AU  - C. Schommer
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3528733
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Natural Language-Oriented Programming (NLOP): Towards Democratizing Software Creation
+T2  - 2024 IEEE International Conference on Software Services Engineering (SSE)
+SP  - 258
+EP  - 267
+AU  - A. Beheshti
+PY  - 2024
+DO  - 10.1109/SSE62657.2024.00047
+JO  - 2024 IEEE International Conference on Software Services Engineering (SSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Software Services Engineering (SSE)
+Y1  - 7-13 July 2024
+ER  - 
+
+TY  - CONF
+TI  - LLM-Aided Compilation for Tensor Accelerators
+T2  - 2024 IEEE LLM Aided Design Workshop (LAD)
+SP  - 1
+EP  - 14
+AU  - C. Hong
+AU  - S. Bhatia
+AU  - A. Haan
+AU  - S. K. Dong
+AU  - D. Nikiforov
+AU  - A. Cheung
+AU  - Y. S. Shao
+PY  - 2024
+DO  - 10.1109/LAD62341.2024.10691748
+JO  - 2024 IEEE LLM Aided Design Workshop (LAD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE LLM Aided Design Workshop (LAD)
+Y1  - 28-29 June 2024
+ER  - 
+
+
