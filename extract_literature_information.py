@@ -126,7 +126,8 @@ def parse_bibtex_file(file_path: str) -> List[Dict[str, Any]]:
     entries = []
     
     # 查找所有条目的起始位置
-    entry_pattern = r'@(\w+)\{([^,\s]+),'
+    # entry_pattern = r'@(\w+)\{([^,\s]+),'
+    entry_pattern = r'@(\w+)\s*\{\s*([^,]+),'
     entry_matches = list(re.finditer(entry_pattern, content))
     
     print(f"找到 {len(entry_matches)} 个文献条目")
@@ -181,7 +182,7 @@ def parse_bibtex_file(file_path: str) -> List[Dict[str, Any]]:
         
         # 提取各个字段
         for field_name, pattern in field_patterns.items():
-            match = re.search(pattern, entry_content, re.DOTALL)
+            match = re.search(pattern, entry_content, re.DOTALL | re.IGNORECASE)
             if match:
                 field_value = clean_field_value(match.group(1))
                 entry[field_name] = field_value
@@ -302,12 +303,12 @@ def main():
     print("=" * 50)
     
     # 硬编码的文件路径
-    work_directory = r"C:\02.Work\09.Git_Repos\LLMinMDE2025"
-    input_file = os.path.join(work_directory, "scopus.bib")
-    output_excel = os.path.join(work_directory, "scopus.xlsx")
+    work_directory = r"E:\02.Git\LLMinMDE2025"
+    input_file = os.path.join(work_directory, "IEEE_Xplore.bib")
+    output_excel = os.path.join(work_directory, "IEEE_Xplore.xlsx")
     
     print(f"工作目录: {work_directory}")
-    print(f"输入文件: acm.bib")
+    print(f"输入文件: IEEE_Xplore.bib")
     
     # 检查目录是否存在
     if not os.path.exists(work_directory):
@@ -318,7 +319,7 @@ def main():
     # 检查输入文件是否存在
     if not os.path.exists(input_file):
         print(f"错误: 输入文件不存在！")
-        print(f"请将 acm.bib 文件放到目录: {work_directory}")
+        print(f"请将 IEEE_Xplore.bib 文件放到目录: {work_directory}")
         return
     
     try:
